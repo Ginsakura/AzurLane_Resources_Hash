@@ -68,8 +68,8 @@
 		"b611652f9c677f005a3682c740c4f743"
 	],
 	"activitybanner/temp8": [
-		"71280",
-		"a4840d93fd184fb383394674a7b8af1a"
+		"71512",
+		"9db6f7b66226c37831bff089cf5fc834"
 	],
 	"activitybanner/temp9": [
 		"77375",
@@ -80,8 +80,8 @@
 		"dc4f7702fea11281efadf6f54d8ec04a"
 	],
 	"activitybanner/temp99": [
-		"1322685",
-		"e1a9d2d828ad94828d63f807b303a1ec"
+		"2665255",
+		"70cf813a185091a76b53533e3c1f556d"
 	],
 	"activitybanner/temp_aisijimoren": [
 		"189011",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1596931",
-		"ecd116098235e1ac6fc1e2f5d4b2e2af"
+		"1596925",
+		"203a4978e4eeeacbb01f7ba62d5707ab"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24757083",
-		"bfa078fcf23d2cef191ef20e11467c59"
+		"24769940",
+		"e04fcc2a1b82a891d1a98f8da6a3f4fe"
 	],
 	"scripts64": [
-		"24802947",
-		"07010cb1b49d67d6623bb49d08faab01"
+		"24779769",
+		"bf781d4a91aa8f5644313fbc75a97d92"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -47000,8 +47000,8 @@
 		"c791aa01339aee51064e44eee38a8f04"
 	],
 	"sharecfgdata/gametip": [
-		"845965",
-		"fd62c06524264e5057316c630cefc4de"
+		"845968",
+		"5fe2e217cce2a209807655572567d3f1"
 	],
 	"sharecfgdata/item_data_statistics": [
 		"2683006",
@@ -47020,12 +47020,12 @@
 		"646e18c32d7592cd5b3472c8af6c0515"
 	],
 	"sharecfgdata/ship_skin_words": [
-		"3803370",
-		"92ae01c08b08c23c517eb35e79df1d4f"
+		"3803376",
+		"93dde97076bda087957a8abd4e5b6717"
 	],
 	"sharecfgdata/shop_template": [
-		"776391",
-		"a1ea711fe46319f809dd7543dfcd188b"
+		"776389",
+		"663af193788438bde1d79d731aaa97c9"
 	],
 	"sharecfgdata/spweapon_data_statistics": [
 		"242958",
@@ -66219,10 +66219,6 @@
 		"190491",
 		"b625f93750b336a42c4873022924f376"
 	],
-	"char/guandao_2": [
-		"820911",
-		"801fb754a78bcd6f68dbcfbfb26dcbd3"
-	],
 	"char/shenghaxintuo_2": [
 		"215993",
 		"eba3cd97c7a150d95ce4bddede769eed"
@@ -66238,10 +66234,6 @@
 	"char/kelifulan_8": [
 		"183120",
 		"5c283b3821a0c2e0e22f5aaffa03eb93"
-	],
-	"char/lafeiii_3": [
-		"295600",
-		"0c270cc37f879934da4ea9983581268c"
 	],
 	"char/udf_boss01": [
 		"513710",
@@ -66294,10 +66286,6 @@
 	"char/xingzuo": [
 		"182434",
 		"2c1f0c6ef57287baae8857604b8560f7"
-	],
-	"char/xingzuo_2": [
-		"227209",
-		"9cae37f490bf5b954003defdf5f7f036"
 	],
 	"chargeicon/dongzhi3": [
 		"24644",
@@ -67699,21 +67687,9 @@
 		"12321",
 		"7ef7358e0b34027a898301bfae71e497"
 	],
-	"spinepainting/guandao": [
-		"5199",
-		"ae637dfcb348d76a6647ac198c7a5aec"
-	],
 	"skillicon/17420": [
 		"13084",
 		"40919458f19c5e2a2c7363ca5d26b10b"
-	],
-	"spinepainting/lafeiii": [
-		"11933",
-		"1004014b147e5aa6e104badcd984139e"
-	],
-	"spinepainting/xingzuo_2": [
-		"5814",
-		"172d799698bde5110d959f3d1320f4bd"
 	],
 	"squareicon/baolei1": [
 		"11784",
@@ -67726,10 +67702,6 @@
 	"skillicon/17370": [
 		"12697",
 		"d75d36a93a65bd7215d3e15bc1818903"
-	],
-	"spinepainting/luyisiweier_2": [
-		"5563",
-		"0421d19f5e76e9b7f21aa0d28c8b06ad"
 	],
 	"squareicon/aisaikesi_alter": [
 		"12210",
@@ -68270,5 +68242,33 @@
 	"shipyardicon/lovers": [
 		"30906",
 		"a62983cde6e1cdada879a52b9aa9d1b5"
+	],
+	"char/xingzuo_2": [
+		"227232",
+		"11c6b483a29e8ff5f28a8e18169595c2"
+	],
+	"char/lafeiii_3": [
+		"296752",
+		"6c2222602487c3cc985024a4c4790533"
+	],
+	"char/guandao_2": [
+		"820869",
+		"ae31ae71d1d67258a6f0697405ca284d"
+	],
+	"spinepainting/guandao": [
+		"5300",
+		"c762a0803e2e6ae33a099cd4dc806911"
+	],
+	"spinepainting/lafeiii": [
+		"12031",
+		"367a4015ce1cc9ac76fd88517dff5977"
+	],
+	"spinepainting/xingzuo_2": [
+		"5817",
+		"9abd02796d5f5b7141c4163915cc6479"
+	],
+	"spinepainting/luyisiweier_2": [
+		"5656",
+		"f4f5403bf6ae2967fa23df923fa945a1"
 	]
 }

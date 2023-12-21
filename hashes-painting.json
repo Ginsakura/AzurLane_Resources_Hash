@@ -23935,10 +23935,6 @@
 		"7098",
 		"630e795ea262caa85160719d354b73e7"
 	],
-	"painting/guandao_n": [
-		"7108",
-		"af7f90985fb20f01044e54e77141179b"
-	],
 	"painting/guandao_2": [
 		"7303",
 		"1de6ebcb7acd69171a59867010583c55"
@@ -23954,10 +23950,6 @@
 	"painting/guandao_2_n_rw_tex": [
 		"495709",
 		"32507ddad552a19ec4d61f30cde9d5e2"
-	],
-	"painting/guandao": [
-		"7114",
-		"7a098eb451dea3086be39e258b7eb3fc"
 	],
 	"painting/guandao_2_rw_tex": [
 		"507958",
@@ -24274,5 +24266,13 @@
 	"painting/z35_3_n_tex": [
 		"3798072",
 		"89e21e3afa0e05b5959bf8070bfe84c6"
+	],
+	"painting/guandao_n": [
+		"7108",
+		"12db628cab8c429f14a8c89776377c06"
+	],
+	"painting/guandao": [
+		"7114",
+		"b6a37c021de9e1adbf81a968db27c65e"
 	]
 }
