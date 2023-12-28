@@ -12,8 +12,8 @@
 		"1c3425c58abe0b93c5842b35d2c33ba3"
 	],
 	"activitybanner/limit_skin": [
-		"179185",
-		"c6faa2e8b8961ef00f60951e24d4834a"
+		"127622",
+		"388e2eb8bf8fb5b0e1f4c8322ff06f75"
 	],
 	"activitybanner/meta_entrance_970205": [
 		"150427",
@@ -48,8 +48,8 @@
 		"1e06e8c77ea883f8092cd3d7b39b9f16"
 	],
 	"activitybanner/temp3": [
-		"91025",
-		"4057d7439f94f1f916a4e83592db539b"
+		"76862",
+		"a9fc2912f76e1dd59cfbfd90037619fc"
 	],
 	"activitybanner/temp4": [
 		"82220",
@@ -64,8 +64,8 @@
 		"3fd8654571249dbd5feba977d9b0ae14"
 	],
 	"activitybanner/temp7": [
-		"75164",
-		"b611652f9c677f005a3682c740c4f743"
+		"74996",
+		"acc8e8af610dd93acb0c07c8341cb1b2"
 	],
 	"activitybanner/temp8": [
 		"71512",
@@ -80,8 +80,8 @@
 		"dc4f7702fea11281efadf6f54d8ec04a"
 	],
 	"activitybanner/temp99": [
-		"2665255",
-		"70cf813a185091a76b53533e3c1f556d"
+		"2138381",
+		"9442a3c452b0e0c3b0e4279677db2bef"
 	],
 	"activitybanner/temp_aisijimoren": [
 		"189011",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1596926",
-		"d1b90b64f65b323e67b53ded7f62de6c"
+		"1600224",
+		"e30ff53af670b2b5d1c2f0086ee7dba3"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -39808,8 +39808,8 @@
 		"34ea82ee8f3e61548eec221c02203a4b"
 	],
 	"painting_filte/painting_filte_list_change": [
-		"14671",
-		"fb76d4170c0d1c383dd67c29a6879179"
+		"12582",
+		"158aa64a2763ff0eb1ea51782a50d4b4"
 	],
 	"painting_filte/painting_filte_list_const": [
 		"2253",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24749764",
-		"0d20441d5592c7567d33ddc930b51360"
+		"24795230",
+		"7dd8f4f3c6d5c9ba6860e3d9a1a3f515"
 	],
 	"scripts64": [
-		"24792421",
-		"d614cc148a96285cf2233407e86d5294"
+		"24820567",
+		"f773625acc9d9394b0051c0627926b7c"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -46968,8 +46968,8 @@
 		"065442f6ba4d0acd8c0a38871c8fbb53"
 	],
 	"sharecfgdata/aircraft_template": [
-		"2272451",
-		"11d401606e51a3c349ff2075a5406171"
+		"2273803",
+		"563f0b333ee23d764e5237bce93851b4"
 	],
 	"sharecfgdata/barrage_template": [
 		"6128619",
@@ -46996,16 +46996,16 @@
 		"57807deec2267e419f74c28d1b5f7171"
 	],
 	"sharecfgdata/expedition_data_template": [
-		"9019469",
-		"c791aa01339aee51064e44eee38a8f04"
+		"9021410",
+		"7216af4e6379e0b21536fcf1403c3991"
 	],
 	"sharecfgdata/gametip": [
 		"845965",
 		"2c3a0765d8792b50c29890ab9b1dc26f"
 	],
 	"sharecfgdata/item_data_statistics": [
-		"2683006",
-		"b7dc2171f79f34c4dc1cee024db92968"
+		"2684649",
+		"dc4a08745fd0daf50cad567a4807e1e0"
 	],
 	"sharecfgdata/ship_data_breakout": [
 		"703782",
@@ -47020,24 +47020,24 @@
 		"646e18c32d7592cd5b3472c8af6c0515"
 	],
 	"sharecfgdata/ship_skin_words": [
-		"3803376",
-		"93dde97076bda087957a8abd4e5b6717"
+		"3818837",
+		"e9e286230e47f9ef78a135874d5f3e4b"
 	],
 	"sharecfgdata/shop_template": [
-		"776389",
-		"663af193788438bde1d79d731aaa97c9"
+		"781356",
+		"8ed3bedcd4deddf5cdc65141eece2da7"
 	],
 	"sharecfgdata/spweapon_data_statistics": [
 		"242958",
 		"e28262ca9906833354008c1686444748"
 	],
 	"sharecfgdata/task_data_template": [
-		"1756691",
-		"7ff7363e4adf2dea166b987a6ca7a570"
+		"1758862",
+		"3a85f63a7bf95ab70001e0042da65d7a"
 	],
 	"sharecfgdata/weapon_property": [
-		"14659215",
-		"d244186e721c853d4e02739cd18bc9b6"
+		"14666393",
+		"3a65a62d4abe7061af6d003c3280cf96"
 	],
 	"sharecfgdata/world_chapter_template": [
 		"4056113",
@@ -65168,8 +65168,8 @@
 		"27c9dd5f06e276093d61e72551852c01"
 	],
 	"ui/voteexchangeui": [
-		"22123",
-		"d94c26f436d6ddee78fbbaac0c615a36"
+		"22133",
+		"48e54de2741549417f3fef998ff2333e"
 	],
 	"ui/votefamehallui": [
 		"22623",
@@ -67636,8 +67636,8 @@
 		"b451a8217037cd99df70f31d61c5569a"
 	],
 	"skillicon/17380": [
-		"12954",
-		"004d3bbbab2a319f61daaaad49065ced"
+		"12944",
+		"53ea53c7e5266d6f542e02108d0d41b9"
 	],
 	"skillicon/17280": [
 		"13185",
@@ -68270,5 +68270,269 @@
 	"spinepainting/luyisiweier_2": [
 		"5656",
 		"f4f5403bf6ae2967fa23df923fa945a1"
+	],
+	"activityuitable/skin_magazine4_text_selected": [
+		"24217",
+		"2b1471c1c0d391594d946edd8a401560"
+	],
+	"activityuitable/skin_magazine4_text": [
+		"23952",
+		"1c58fb1980b019eb281db4216b1f9b00"
+	],
+	"char/fengyun_4": [
+		"186189",
+		"f0289a9e482ccee270830f180ea434a6"
+	],
+	"char/siwanshi_2": [
+		"384485",
+		"81824de3453f77da19a9168129a67d3d"
+	],
+	"char/qiershazhi_2": [
+		"363807",
+		"7e85616f1d8b5c9bedaef6053c11a5a8"
+	],
+	"char/xingdengbao_2": [
+		"316051",
+		"d998ad76cacb5d2563f25ad060e71aa1"
+	],
+	"char/yanusi_5": [
+		"172400",
+		"57f2be9ecbfcc02d5f61f5baf2f763ec"
+	],
+	"chatframe/10008_other": [
+		"9535",
+		"46c0c304735b90ac26672e933f79e6e1"
+	],
+	"chatframe/10008_self": [
+		"9504",
+		"2ca9b41559ea679d266fa3918d5eb7e9"
+	],
+	"chatframe/frame_10008": [
+		"18558",
+		"b08de6941bed4e885d381d502789f1e0"
+	],
+	"herohrzicon/fengyun_4": [
+		"18723",
+		"8e4c6677e169724da8b66d17f186ba95"
+	],
+	"herohrzicon/fulandeer_2": [
+		"18286",
+		"18191f8b6550fbfe11a0569310b82861"
+	],
+	"char/feilikesishuerci_2": [
+		"356761",
+		"ff8d2dbbb8573bdbe79113efa7086278"
+	],
+	"herohrzicon/feilikesishuerci_2": [
+		"17950",
+		"2fc0001aea92b7fd75bfe35657252961"
+	],
+	"herohrzicon/qiershazhi_2": [
+		"12961",
+		"4bcd589b5c3a8fe18650a7c370b6a82d"
+	],
+	"herohrzicon/yanusi_5": [
+		"12518",
+		"3c687f7ff3c3ab0b59ca2f6695ea3c62"
+	],
+	"herohrzicon/xingdengbao_2": [
+		"15445",
+		"b39f5cd78a60d1e6dfa9da3895b4a9b8"
+	],
+	"herohrzicon/siwanshi_2": [
+		"17666",
+		"a8bddf12d565efa68e90f765896dcb71"
+	],
+	"char/fulandeer_2": [
+		"395694",
+		"8ad27cb34422dec0ddf6e0edc6bfb808"
+	],
+	"iconframe/10008": [
+		"34732",
+		"0f6ced732f795b07797cc68578e05f05"
+	],
+	"limitchallenge/icon/gecheng_2": [
+		"1233612",
+		"032fb1034b8cc8525a81e37a67136ff0"
+	],
+	"limitchallenge/icon/gecheng_1": [
+		"1273342",
+		"af5216ba7cc3bfb51ff6c8ef44ac493c"
+	],
+	"memoryicon/memory_shishangtekanhedingji3": [
+		"33116",
+		"c2e297d9b3e8c7b239f10293e51cfb1d"
+	],
+	"paintingface/feilikesishuerci_2": [
+		"2077635",
+		"29310c1f65d5d317bf85028c48e0b57b"
+	],
+	"paintingface/fulandeer_2": [
+		"1319449",
+		"14dff1ea487222da6e5fd1c9d0283f40"
+	],
+	"limitchallenge/name/gecheng_constellation": [
+		"1276226",
+		"8266467fea70ba9defd6ffd9e2061a24"
+	],
+	"paintingface/fengyun_4": [
+		"2983879",
+		"2b82fc5d8825604f0a8e4bebe946e8a1"
+	],
+	"paintingface/yanusi_5": [
+		"349774",
+		"6825f08dfd23f6b32da42ab48a6e7543"
+	],
+	"paintingface/xingdengbao_2": [
+		"1027578",
+		"20cc1cf520a93240d21c7e7275615149"
+	],
+	"qicon/feilikesishuerci_2": [
+		"11202",
+		"ab42adc98d42228b0865294943ff5ba4"
+	],
+	"qicon/fengyun_4": [
+		"10728",
+		"50de91f8e97814f65d6a8fc6d5640ccc"
+	],
+	"qicon/fulandeer_2": [
+		"10488",
+		"fcfa129ed31f0579b8e8cf7d9b808c48"
+	],
+	"qicon/qiershazhi_2": [
+		"11193",
+		"8aac4cf0c46f81b2b97e05b4ae210881"
+	],
+	"paintingface/siwanshi_2": [
+		"285252",
+		"fd4be548a38f67dd0018de27c2a6dbbf"
+	],
+	"qicon/xingdengbao_2": [
+		"10944",
+		"c0c1c3478b0fc0a020acd83a44ff17f0"
+	],
+	"qicon/yanusi_5": [
+		"10744",
+		"152b7b1f33cd602b3fda9bb3c3669114"
+	],
+	"qicon/siwanshi_2": [
+		"10811",
+		"285a7ac805d24169a222af03b38cc656"
+	],
+	"limitchallenge/boss/gecheng": [
+		"1273351",
+		"9a12c1cbf1f0a42bf82b011d504185b0"
+	],
+	"paintingface/qiershazhi_2": [
+		"595227",
+		"fa417308cfd70069229772a19a9a9cda"
+	],
+	"shipmodels/fengyun_4": [
+		"43038",
+		"5fc4432e86196ad73598fe42ee8b7c9b"
+	],
+	"shipmodels/fulandeer_2": [
+		"93078",
+		"5c1b03e83a948cfcdf77a4ebfc939ac1"
+	],
+	"shipmodels/feilikesishuerci_2": [
+		"96987",
+		"f1500f732dcadda2095189711a6b91f7"
+	],
+	"shipmodels/qiershazhi_2": [
+		"96212",
+		"1d08a17ea5d5ac57e42dd314e126acf0"
+	],
+	"shipmodels/siwanshi_2": [
+		"95591",
+		"a9bc257140e0f3936c1a994a3b2583fc"
+	],
+	"shipmodels/xingdengbao_2": [
+		"95920",
+		"cd45ed65fc2875d692ad762731eb1fd6"
+	],
+	"shipmodels/yanusi_5": [
+		"52135",
+		"56574695eed9ff8dd8332d2734dadc06"
+	],
+	"shipyardicon/fengyun_4": [
+		"31271",
+		"6ee1cf8f26b95517ac6ef68c0daf8002"
+	],
+	"shipyardicon/fulandeer_2": [
+		"34888",
+		"d1d0641fe3c59f8410df0765503ecf95"
+	],
+	"shipyardicon/qiershazhi_2": [
+		"28473",
+		"1e24582137889facc7a2736ff1a79158"
+	],
+	"shipyardicon/siwanshi_2": [
+		"32799",
+		"7b3bddfc15082c26da0d4095819fe1e3"
+	],
+	"shipyardicon/xingdengbao_2": [
+		"32782",
+		"e5afda250dc00fb3fec607db3fa6824d"
+	],
+	"shipyardicon/yanusi_5": [
+		"29946",
+		"1c3466b94a986f0f350a09f4c6a4dc87"
+	],
+	"shipyardicon/feilikesishuerci_2": [
+		"32352",
+		"16322acd193cd6454e4827fc64ca59c5"
+	],
+	"squareicon/fengyun_4": [
+		"12223",
+		"24d981e8ae1c28ebbe840021290b3c2b"
+	],
+	"squareicon/feilikesishuerci_2": [
+		"12210",
+		"427dc112f8f409c4458df306070c13c8"
+	],
+	"squareicon/fulandeer_2": [
+		"12439",
+		"f9a8e6cb73ef8dbaf3c11e9fd7a90a19"
+	],
+	"squareicon/qiershazhi_2": [
+		"11656",
+		"928182108c81792487f51a6e4d286f0a"
+	],
+	"squareicon/qiye_dark_memory": [
+		"11063",
+		"4e2f21554709e60f89b596707d59167a"
+	],
+	"squareicon/qiye_dark_shadow": [
+		"9462",
+		"86e7c27f76aaa9e55c2e66b7a698c82d"
+	],
+	"squareicon/qiye_dark": [
+		"11651",
+		"a0f9900f93f347ba0b43cfb6bee32125"
+	],
+	"squareicon/siwanshi_2": [
+		"11610",
+		"64f705924f4ed2d8c901ac2678367394"
+	],
+	"squareicon/xingdengbao_2": [
+		"12275",
+		"1d7cba249a33d038f9cd2852d6428c27"
+	],
+	"squareicon/yanusi_5": [
+		"11693",
+		"c53a926aa2f4a7816c1d7a8000772b86"
+	],
+	"ui/skinmagazinepage4": [
+		"54853",
+		"6b5b74fd0e239f0fcb5588ba925c51c3"
+	],
+	"storyicon/xingdengbao_2": [
+		"345528",
+		"67e21e782255794faafd44f819d845bd"
+	],
+	"ui/activityuipage/skinmagazinepage4_atlas": [
+		"4034321",
+		"057f48a8a6506266323b0a6de347e963"
 	]
 }
