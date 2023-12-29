@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1600224",
-		"e30ff53af670b2b5d1c2f0086ee7dba3"
+		"1600226",
+		"3dc8b67571846deaca7b86554688f347"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24795230",
-		"7dd8f4f3c6d5c9ba6860e3d9a1a3f515"
+		"24782754",
+		"c24fdb9cd5f6a50b6b9c971dc180d0c6"
 	],
 	"scripts64": [
-		"24820567",
-		"f773625acc9d9394b0051c0627926b7c"
+		"24812208",
+		"a19af80a09961d1178ff09ab28ad40fb"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
