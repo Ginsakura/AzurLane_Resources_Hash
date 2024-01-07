@@ -56,8 +56,8 @@
 		"1cf4ed05d72c5ee8faeb017868ec4741"
 	],
 	"activitybanner/temp5": [
-		"82891",
-		"6b9b927dd1789c5ef3da831b14bb3621"
+		"82235",
+		"5e41c384ebe6461323567664506a29ea"
 	],
 	"activitybanner/temp6": [
 		"90108",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1600226",
-		"3dc8b67571846deaca7b86554688f347"
+		"1600597",
+		"7b2afe3e314160013a00caee21b4f8d6"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -31060,8 +31060,8 @@
 		"86d1de699e674f1695916968ed6febbc"
 	],
 	"loadingbg/login": [
-		"871731",
-		"8f3837f060df52a96f7455ba09e32318"
+		"690992",
+		"0d31fde15f63720cd6c96014a19d3e9e"
 	],
 	"loadingbg/login_0817_1": [
 		"285127",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24782754",
-		"c24fdb9cd5f6a50b6b9c971dc180d0c6"
+		"24791468",
+		"513311a69440fef6ac2b376df5241594"
 	],
 	"scripts64": [
-		"24812208",
-		"a19af80a09961d1178ff09ab28ad40fb"
+		"24821202",
+		"38bb429fcbfdcf543a547fc93258e691"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -47000,8 +47000,8 @@
 		"7216af4e6379e0b21536fcf1403c3991"
 	],
 	"sharecfgdata/gametip": [
-		"845965",
-		"2c3a0765d8792b50c29890ab9b1dc26f"
+		"845979",
+		"eb44233a057fe74d1c9f1160e1d9cd65"
 	],
 	"sharecfgdata/item_data_statistics": [
 		"2684649",
@@ -68534,5 +68534,61 @@
 	"ui/activityuipage/skinmagazinepage4_atlas": [
 		"4034321",
 		"057f48a8a6506266323b0a6de347e963"
+	],
+	"activityuitable/beachgamepage_text": [
+		"25986",
+		"6239c680b03671d6e7ed3d2be78696d6"
+	],
+	"activityuitable/newyear24_login_text_selected": [
+		"23531",
+		"4a352f16630296af3f3f47ed73483547"
+	],
+	"activityuitable/beachgamepage_text_selected": [
+		"25537",
+		"536839f137b25961c1aa068921ac7487"
+	],
+	"activityuitable/newyear24_login_text": [
+		"24777",
+		"0f9dee0a7729d97195020b2312d2f7bd"
+	],
+	"beachguardgameassets/bullet": [
+		"5090",
+		"470e9ef2dacc422d94eb8fb4373028e4"
+	],
+	"beachguardgameassets/effect": [
+		"10051",
+		"b6161265913f26fc6a94d5ce33568344"
+	],
+	"beachguardgameassets/char": [
+		"12483",
+		"08ed7a242a683b22430eda0a4623cb62"
+	],
+	"props/60458": [
+		"11037",
+		"99a76e88d4713d99bbd026674dbb5678"
+	],
+	"ui/beachguardgameui": [
+		"49785",
+		"0c3d3c254bd37fc7dc41c2f348b439cf"
+	],
+	"ui/newyear24loginpage": [
+		"16587",
+		"4fe8a67ed1ac17268168524c356d9384"
+	],
+	"ui/beachgamepage": [
+		"5390",
+		"ebaff08098ea2f5536bd55806f6641b5"
+	],
+	"ui/activityuipage/newyear24loginpage_atlas": [
+		"189889",
+		"a7479b4b9132197e197f9bba9d5f5a3c"
+	],
+	"ui/activityuipage/beachgamepage_atlas": [
+		"272118",
+		"cdb2681070003943eee968f6b1de163d"
+	],
+	"ui/minigameui/beachguardgameui_atlas": [
+		"14125781",
+		"18a7004c0bf2ae388da7db4f50f754f5"
 	]
 }
