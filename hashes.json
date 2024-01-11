@@ -12,8 +12,8 @@
 		"1c3425c58abe0b93c5842b35d2c33ba3"
 	],
 	"activitybanner/limit_skin": [
-		"127622",
-		"388e2eb8bf8fb5b0e1f4c8322ff06f75"
+		"139683",
+		"f3d0e646272a34f0e753f64cd3bd2663"
 	],
 	"activitybanner/meta_entrance_970205": [
 		"150427",
@@ -36,52 +36,52 @@
 		"5b9d03904d61e0821230ed2befce7ed9"
 	],
 	"activitybanner/temp1": [
-		"78625",
-		"3ea1f3ee7d1126fef3ac662c02f125e4"
+		"85221",
+		"231c5ee809f5f1c901b93aac1d0389fb"
 	],
 	"activitybanner/temp10": [
-		"620597",
-		"fcbe8bbb1eed5a7a80b3066d65c118df"
+		"548704",
+		"9c6d17ce69b610eeb020fbce4aae5853"
 	],
 	"activitybanner/temp2": [
 		"76400",
 		"1e06e8c77ea883f8092cd3d7b39b9f16"
 	],
 	"activitybanner/temp3": [
-		"76862",
-		"a9fc2912f76e1dd59cfbfd90037619fc"
+		"89391",
+		"f46cdff676f1fb50444776cf6209babb"
 	],
 	"activitybanner/temp4": [
-		"82220",
-		"1cf4ed05d72c5ee8faeb017868ec4741"
+		"87429",
+		"60fa7c760658bb259ecbd59fec8c6fe6"
 	],
 	"activitybanner/temp5": [
 		"82235",
 		"5e41c384ebe6461323567664506a29ea"
 	],
 	"activitybanner/temp6": [
-		"90108",
-		"3fd8654571249dbd5feba977d9b0ae14"
+		"83313",
+		"6f68ed5fce656a868729753e1526a48b"
 	],
 	"activitybanner/temp7": [
-		"74996",
-		"acc8e8af610dd93acb0c07c8341cb1b2"
+		"75462",
+		"803ace1f0ca80a0b36c465ddcbe35748"
 	],
 	"activitybanner/temp8": [
-		"71512",
-		"9db6f7b66226c37831bff089cf5fc834"
+		"68957",
+		"6531db74b2b96260eb6d43df578260c3"
 	],
 	"activitybanner/temp9": [
-		"77375",
-		"02254bca9570a6a700dd4827e7a2de4e"
+		"77953",
+		"00de78a946f052ec642cc6b0f4ddddcd"
 	],
 	"activitybanner/temp98": [
 		"939582",
 		"dc4f7702fea11281efadf6f54d8ec04a"
 	],
 	"activitybanner/temp99": [
-		"2138381",
-		"9442a3c452b0e0c3b0e4279677db2bef"
+		"2188022",
+		"592afb2af88ab39b4f08e95291f6252f"
 	],
 	"activitybanner/temp_aisijimoren": [
 		"189011",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1600597",
-		"7b2afe3e314160013a00caee21b4f8d6"
+		"1600828",
+		"d8d999b214b29c69da06257490f079ec"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -30936,16 +30936,16 @@
 		"8b4355706f449e7fca03214385779f83"
 	],
 	"linkbutton/event_all": [
-		"14576",
-		"bba5fc725c13838f779cc518b0af6afa"
+		"15028",
+		"31b09dde2ffbc8e2babb5549745ef06b"
 	],
 	"linkbutton/event_boss": [
 		"15099",
 		"ef5efef7ced3535ec5bc7238117fa7dd"
 	],
 	"linkbutton/event_map": [
-		"14869",
-		"4fd47e23588248132c30c370fb35b646"
+		"14769",
+		"def72d4d9b25d688ca0157acdee65165"
 	],
 	"linkbutton/event_medal": [
 		"17207",
@@ -31048,8 +31048,8 @@
 		"2fa64e8a9b76438a952dd4c940a1cbe1"
 	],
 	"loadingbg/bg_build_4": [
-		"2216655",
-		"ba390d37e4398772c46106665de7d597"
+		"2078077",
+		"d60ef25819219a9880b0c850aedc05ca"
 	],
 	"loadingbg/bg_build_4_act": [
 		"2216641",
@@ -39808,8 +39808,8 @@
 		"34ea82ee8f3e61548eec221c02203a4b"
 	],
 	"painting_filte/painting_filte_list_change": [
-		"12582",
-		"158aa64a2763ff0eb1ea51782a50d4b4"
+		"10642",
+		"bdbaf8312525134a5b228085d670100e"
 	],
 	"painting_filte/painting_filte_list_const": [
 		"2253",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24791468",
-		"513311a69440fef6ac2b376df5241594"
+		"24777361",
+		"3550a8693ac3808933426b7f5ecb8d6d"
 	],
 	"scripts64": [
-		"24821202",
-		"38bb429fcbfdcf543a547fc93258e691"
+		"24791313",
+		"e675a4d92c7d8d8c17791a174d9509d8"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -46981,7 +46981,7 @@
 	],
 	"sharecfgdata/chapter_template": [
 		"4492889",
-		"469664c924d9794fa755879d895788e5"
+		"9e8842cafc3be2bb46848934e8ad282a"
 	],
 	"sharecfgdata/chapter_template_loop": [
 		"2676397",
@@ -47000,40 +47000,40 @@
 		"7216af4e6379e0b21536fcf1403c3991"
 	],
 	"sharecfgdata/gametip": [
-		"845979",
-		"eb44233a057fe74d1c9f1160e1d9cd65"
+		"846089",
+		"50d47054beee61df9e3a863a15d25791"
 	],
 	"sharecfgdata/item_data_statistics": [
-		"2684649",
-		"dc4a08745fd0daf50cad567a4807e1e0"
+		"1448311",
+		"f2aaaced1fbdc6c30160c7dc17b660f8"
 	],
 	"sharecfgdata/ship_data_breakout": [
 		"703782",
 		"d14c24cd2ff2879b4dbbfcf5d6542ea7"
 	],
 	"sharecfgdata/ship_data_statistics": [
-		"3222827",
-		"57a8d2d20bcf8a77687c1d79fb810447"
+		"3222902",
+		"aa936a4e74b479258d4b9ae2785857ea"
 	],
 	"sharecfgdata/ship_data_template": [
 		"1487760",
 		"646e18c32d7592cd5b3472c8af6c0515"
 	],
 	"sharecfgdata/ship_skin_words": [
-		"3818837",
-		"e9e286230e47f9ef78a135874d5f3e4b"
+		"3818825",
+		"91c4c30af369d1384cfda816a802ba05"
 	],
 	"sharecfgdata/shop_template": [
-		"781356",
-		"8ed3bedcd4deddf5cdc65141eece2da7"
+		"784816",
+		"a297823dbd81e588b1bf836484cc6803"
 	],
 	"sharecfgdata/spweapon_data_statistics": [
 		"242958",
 		"e28262ca9906833354008c1686444748"
 	],
 	"sharecfgdata/task_data_template": [
-		"1758862",
-		"3a85f63a7bf95ab70001e0042da65d7a"
+		"1771088",
+		"074afe51c306c3422790742d5a419776"
 	],
 	"sharecfgdata/weapon_property": [
 		"14666393",
@@ -58868,8 +58868,8 @@
 		"9583146681da14ac55f3d2f5a4d0f780"
 	],
 	"ui/commonui_atlas": [
-		"993993",
-		"9e4d30aca9c2396b39c42a5414b57291"
+		"997202",
+		"9a00582f1967eb68938a6a7244a08104"
 	],
 	"ui/continuousoperationui": [
 		"7741",
@@ -60764,8 +60764,8 @@
 		"59fb9852b747fe0f09fa7c252f51d88b"
 	],
 	"ui/levelmainscene_atlas": [
-		"869011",
-		"71ba7e5b518294d8e8bbbb436acfb1a8"
+		"873571",
+		"4a9658aa81c2c349da0b6ad0529c3903"
 	],
 	"ui/levelmap_1420001_atlas": [
 		"10331",
@@ -63196,8 +63196,8 @@
 		"20df616cd25c8ca2e7e74b5c7f0b7941"
 	],
 	"ui/playervitaeui": [
-		"10526",
-		"5336a28809e1896604553bdfe5740009"
+		"10652",
+		"30dfd40378e5125d3cc80ec2691de75c"
 	],
 	"ui/poxiaobinghua": [
 		"334272",
@@ -63936,8 +63936,8 @@
 		"bcc92674b3c2193ef12e6332666eb896"
 	],
 	"ui/settingsother": [
-		"9048",
-		"48c2ef543395b9c4b0f67bb6df547f0c"
+		"9181",
+		"2ca53e08d97b2f75c2bda447d9699449"
 	],
 	"ui/settingspaintingdownload": [
 		"8376",
@@ -68590,5 +68590,69 @@
 	"ui/minigameui/beachguardgameui_atlas": [
 		"14125781",
 		"18a7004c0bf2ae388da7db4f50f754f5"
+	],
+	"activityuitable/dexiur_main_text_selected": [
+		"26169",
+		"1cd7823d8e4bd86342e2f6f3edeb9783"
+	],
+	"activityuitable/dexiur_main_text": [
+		"25522",
+		"e02cbf3cff0542ab09b2cf5bf55be9e3"
+	],
+	"activityuitable/dexiur_pt_text": [
+		"25541",
+		"f4ad039aa4dd60aacfb72b6fb89dc7ed"
+	],
+	"activityuitable/dexiur_pt_text_selected": [
+		"26188",
+		"8586865097bc3e22e44dcf5158edb7ff"
+	],
+	"activityuitable/yidaliv2_login_text_selected": [
+		"20772",
+		"15f8815fe1d540c99ca09864ba2a2511"
+	],
+	"activityuitable/yidaliv2_login_text": [
+		"21168",
+		"616b9d02ca242cee12ec80b8eb6b5a89"
+	],
+	"commonbg/bg_pt_dexiur": [
+		"204230",
+		"7255bf569e006ccb6e235e3f15072db1"
+	],
+	"sharecfgdata/item_virtual_data_statistics": [
+		"1629145",
+		"570a31a5ac665713617b380bc5a4990f"
+	],
+	"shoppainting/magedebao_pt": [
+		"272449",
+		"f0c809c98e6ad6b584dc42013d4cf5a9"
+	],
+	"ui/dexiv4ptpage": [
+		"9544",
+		"b33b5effbbb8893c365a0eed3a260592"
+	],
+	"ui/dexiqianshaoreptpage": [
+		"519040",
+		"a598a81fbe98698ac97b6d43a8fdce55"
+	],
+	"ui/deximainpage": [
+		"5286",
+		"53b366610c367a70625a387c834a4f3a"
+	],
+	"ui/huttenv2loginpage": [
+		"8753",
+		"5b0fa94e119c0aea54359cdc80e9361a"
+	],
+	"ui/activityuipage/dexiv4ptpage_atlas": [
+		"808741",
+		"9283b141082696a0feb56cba43cd1c68"
+	],
+	"ui/activityuipage/deximainpage_atlas": [
+		"312066",
+		"602f8f93606442348ea58057513cd307"
+	],
+	"ui/activityuipage/huttenv2loginpage_atlas": [
+		"391134",
+		"5053ab0e422c5c089e8a7bb6f5bde76e"
 	]
 }
