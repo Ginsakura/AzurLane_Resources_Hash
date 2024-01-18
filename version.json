@@ -1,10 +1,10 @@
 {
-	"version": "7.1.305",
+	"version": "7.1.312",
 	"version-s": "55",
 	"version-pic": "0.0.46",
 	"version-painting": "0.0.168",
-	"version-manga": "0.0.44",
-	"version-live2d": "0.0.631",
+	"version-manga": "0.0.46",
+	"version-live2d": "0.0.633",
 	"version-cv": "0.0.705",
 	"version-cipher": "0.0.12",
 	"version-bgm": "0.0.36"
