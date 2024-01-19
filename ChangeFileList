@@ -1,2 +1,8 @@
+ui/playervitaeui
+ui/shipprofileui
+dependencies
+sharecfgdata/gametip
+ui/skinvouchermsgboxui
 scripts64
 scripts32
+live2d/hailunna_4
