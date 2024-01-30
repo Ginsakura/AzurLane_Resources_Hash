@@ -1,10 +1,7 @@
-voteships/aimudeng
-voteships/lafei
+ui/taiyuanalteritempage
+ui/skinunlockanim/star_level_unlock_anim_501051
 dependencies
 sharecfgdata/ship_skin_words
-scripts64
+originsource/cpk/unlock_501051.cpk
 scripts32
-painting/jian_2
-painting/jian_2_n
-live2d/longwu_2
-cue/cv-50209.b
+scripts64

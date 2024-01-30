@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1616609",
-		"ddfd5f6b7f7233b9df4e7dc7396ce1ce"
+		"1616654",
+		"c0df6f5d9c1690d7a5756810e2e91b46"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"24960671",
-		"9576c4df6a288186342fb37977fe877e"
+		"24940535",
+		"e29ef3cfa4a464548c34e1c60eed25bb"
 	],
 	"scripts64": [
-		"24934373",
-		"b6395926a74485dae3b18d1715034a77"
+		"24950210",
+		"ce2b793cf8273cfe9b75f2d7f4695e23"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -47021,7 +47021,7 @@
 	],
 	"sharecfgdata/ship_skin_words": [
 		"3860227",
-		"d3319cba276f11cadbcb84ae48a3e90f"
+		"918e1e2e88a261d49ab1a08371de7820"
 	],
 	"sharecfgdata/shop_template": [
 		"645545",
@@ -70232,8 +70232,8 @@
 		"12bbdc22fdad5be5a66c858b90936138"
 	],
 	"ui/taiyuanalteritempage": [
-		"14545",
-		"14521a5deb3513aa4dc6d1bcf5da80a1"
+		"14551",
+		"f2752f9154044afeb60bb833dafacb09"
 	],
 	"ui/activityuipage/newyeargreetingptpage_atlas": [
 		"539484",
@@ -70418,5 +70418,13 @@
 	"voteships/lafei": [
 		"257243",
 		"112d7d71844891a2dd1f9d2c0d98c991"
+	],
+	"ui/skinunlockanim/star_level_unlock_anim_501051": [
+		"12452",
+		"4ed817b9659d4c5925b082ea65a72651"
+	],
+	"originsource/cpk/unlock_501051.cpk": [
+		"7727232",
+		"bb6b07a0f3e34460bf6b18dd20bc528e"
 	]
 }
