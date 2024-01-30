@@ -1,11 +1,11 @@
 {
-	"version": "7.1.317",
+	"version": "7.1.329",
 	"version-s": "55",
 	"version-pic": "0.0.46",
-	"version-painting": "0.0.168",
+	"version-painting": "0.0.185",
 	"version-manga": "0.0.46",
-	"version-live2d": "0.0.634",
-	"version-cv": "0.0.705",
+	"version-live2d": "0.0.640",
+	"version-cv": "0.0.710",
 	"version-cipher": "0.0.12",
 	"version-bgm": "0.0.36"
 }

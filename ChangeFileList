@@ -1,8 +1,10 @@
-ui/playervitaeui
-ui/shipprofileui
+voteships/aimudeng
+voteships/lafei
 dependencies
-sharecfgdata/gametip
-ui/skinvouchermsgboxui
+sharecfgdata/ship_skin_words
 scripts64
 scripts32
-live2d/hailunna_4
+painting/jian_2
+painting/jian_2_n
+live2d/longwu_2
+cue/cv-50209.b
