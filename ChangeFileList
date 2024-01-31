@@ -1,7 +1,10 @@
-ui/taiyuanalteritempage
-ui/skinunlockanim/star_level_unlock_anim_501051
+linkbutton/event_minigame
+linkbutton/text_event_minigame
+item/paodan_jianzhen
+ui/activitybosshuanchangui
 dependencies
-sharecfgdata/ship_skin_words
-originsource/cpk/unlock_501051.cpk
-scripts32
+loadingbg/bg_10
+ui/fushun3gameview
+loadingbg/bg_1
 scripts64
+scripts32
