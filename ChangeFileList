@@ -1,10 +1,7 @@
-linkbutton/event_minigame
-linkbutton/text_event_minigame
-item/paodan_jianzhen
-ui/activitybosshuanchangui
 dependencies
-loadingbg/bg_10
-ui/fushun3gameview
-loadingbg/bg_1
-scripts64
+metaship/970104_active
+metaship/970104_disactive
+sharecfgdata/item_data_statistics
 scripts32
+scripts64
+painting/jinboli_alter_tex
