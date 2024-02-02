@@ -1,7 +1,6 @@
-dependencies
-metaship/970104_active
-metaship/970104_disactive
+loadingbg/bg_1
 sharecfgdata/item_data_statistics
-scripts32
+dependencies
 scripts64
-painting/jinboli_alter_tex
+scripts32
+originsource/cpk/op_zh.cpk
