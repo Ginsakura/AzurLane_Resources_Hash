@@ -4,8 +4,8 @@
 		"2dfc065f7feb8aa8f3a9d6873feb06a8"
 	],
 	"activitybanner/activity_permanent": [
-		"145174",
-		"96b5b5cd1b3d20100506bbc7722033b3"
+		"129850",
+		"954da7ffc94b2371d801e1ff8829e679"
 	],
 	"activitybanner/empty": [
 		"1358080",
@@ -36,36 +36,36 @@
 		"5b9d03904d61e0821230ed2befce7ed9"
 	],
 	"activitybanner/temp1": [
-		"72626",
-		"638cb675c6e640ae3e6c9008bb0eda23"
+		"76564",
+		"2ce0533cbca28d0946f3df6fb30b9606"
 	],
 	"activitybanner/temp10": [
-		"570623",
-		"adab98db01379f8ac48a9f9f3e0df8a9"
+		"560278",
+		"d40d7a2b04027366413321256c8c1fec"
 	],
 	"activitybanner/temp2": [
 		"76400",
 		"1e06e8c77ea883f8092cd3d7b39b9f16"
 	],
 	"activitybanner/temp3": [
-		"87520",
-		"1bf33a42edd190e6bed0eff6d5dc6e10"
+		"75046",
+		"f2feff6d558ece9843dbd6dafe3675cb"
 	],
 	"activitybanner/temp4": [
-		"76860",
-		"c5a8bc309f03a3274228da2fe146ae13"
+		"77653",
+		"f0c1e66acab6d38f4009f067b364d4b2"
 	],
 	"activitybanner/temp5": [
 		"74093",
 		"a0544f3a1cd1ca5aa37fd67856b14856"
 	],
 	"activitybanner/temp6": [
-		"83678",
-		"add182dd862e2212668c79bdf8d45cf6"
+		"82417",
+		"1caba581d20d5b2bf3faae09d4408fed"
 	],
 	"activitybanner/temp7": [
-		"71708",
-		"0bf3da809163e243afc803964582ab95"
+		"79726",
+		"851ac6a392b160b7b6640996d364b792"
 	],
 	"activitybanner/temp8": [
 		"69483",
@@ -80,8 +80,8 @@
 		"dc4f7702fea11281efadf6f54d8ec04a"
 	],
 	"activitybanner/temp99": [
-		"2171049",
-		"1c71ddd0dfc7f53d90fada5d196dc05f"
+		"2069941",
+		"d31d4e2848d061f3947ebe1fcf0e6202"
 	],
 	"activitybanner/temp_aisijimoren": [
 		"189011",
@@ -10648,8 +10648,8 @@
 		"51ff58dbe1ebd1f736f8939df7923832"
 	],
 	"clutter/lanternriddles_bg": [
-		"6004761",
-		"6c8a59a427bb5a7b731fc020a49cbf25"
+		"6242469",
+		"c16846f5accd020b9310a553efb737f8"
 	],
 	"clutter/logo_holo": [
 		"38801",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1646584",
-		"29e8a49306d80296eea3db52db60dcc0"
+		"1648940",
+		"5e43a668b759486fc16152d3c40af2b1"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -31036,16 +31036,16 @@
 		"eead18f87f9c4be6807e679390e5190b"
 	],
 	"loadingbg/bg_build_2": [
-		"1619614",
-		"e87857ffc6d5740553ee07df8677370d"
+		"1507669",
+		"44d777ce882de5241a01cef9a644bd1d"
 	],
 	"loadingbg/bg_build_2_act": [
 		"1644580",
 		"9c9dddf9a2449bcd08a96c6de68107fa"
 	],
 	"loadingbg/bg_build_3": [
-		"1671114",
-		"69b4c1d187248006ae484234909d7e30"
+		"1678879",
+		"1188a10d8989fd1b81dbc4003255854e"
 	],
 	"loadingbg/bg_build_4": [
 		"2078077",
@@ -39808,8 +39808,8 @@
 		"34ea82ee8f3e61548eec221c02203a4b"
 	],
 	"painting_filte/painting_filte_list_change": [
-		"14824",
-		"cfb4189141c66da3c4d248e850b1f13e"
+		"14657",
+		"5a64bed253e72c95fc5b0365a18aebd9"
 	],
 	"painting_filte/painting_filte_list_const": [
 		"3217",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"25368695",
-		"a180a8e10ceb94703fd0342f4e48b158"
+		"25440530",
+		"3d638bd86d402b69da38df361155bb36"
 	],
 	"scripts64": [
-		"25401132",
-		"ed36ab23bb8d12d98f0afb8b2be31b65"
+		"25468480",
+		"8d6b60b8df848fae86b41b58e291ec22"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -46972,40 +46972,40 @@
 		"846a1136d7a962f8e5b73eb4a097ac1c"
 	],
 	"sharecfgdata/barrage_template": [
-		"6165943",
-		"f417c0ee35a99c30dbce880b31bb3f81"
+		"6166838",
+		"2843e548832e8714fec081a46eb67074"
 	],
 	"sharecfgdata/bullet_template": [
-		"8429812",
-		"2dab873045c35448bbf3050c628dbca6"
+		"8433491",
+		"78f05d744e8e288a1d5f4f6a91f1ba65"
 	],
 	"sharecfgdata/chapter_template": [
-		"4623845",
-		"b05090fed1d50ddeb318d5eca7f1a871"
+		"4680686",
+		"56856d181ff793cc9a1a088fb39457ef"
 	],
 	"sharecfgdata/chapter_template_loop": [
-		"2772388",
-		"bfc7f954c05d197ff47d42bfcc15118c"
+		"2814022",
+		"5d83cfac585b3488f1f6738b285852ce"
 	],
 	"sharecfgdata/equip_data_statistics": [
-		"1981093",
-		"6b4681a9f315a65597efdc8985cb16e5"
+		"1983124",
+		"e8c9344fa73ce2ee8503ed6ef5e7a12d"
 	],
 	"sharecfgdata/equip_data_template": [
-		"2652036",
-		"70e60f36c7e8012e8c533013976c497f"
+		"2656135",
+		"3540282e9e4c7ec1f7e295e1ece20f4d"
 	],
 	"sharecfgdata/expedition_data_template": [
 		"9026881",
 		"db22520514fea485f0e9783bb756d749"
 	],
 	"sharecfgdata/gametip": [
-		"869427",
-		"a2b46140e163bdc2a0c35261aa689e65"
+		"869517",
+		"6664c8828825d15651d61e59c7ec5917"
 	],
 	"sharecfgdata/item_data_statistics": [
-		"1475595",
-		"9804ec12f999525b3a33747aab213451"
+		"1372874",
+		"3c006e5c561b669d0e22883fa71f92e1"
 	],
 	"sharecfgdata/ship_data_breakout": [
 		"712003",
@@ -47020,24 +47020,24 @@
 		"86cfa335899987c1d62ada3d7866e520"
 	],
 	"sharecfgdata/ship_skin_words": [
-		"3874273",
-		"ed0c182c22e84cd1ab180863b287a915"
+		"3878083",
+		"3dad807b73a49994494156d8f2336db9"
 	],
 	"sharecfgdata/shop_template": [
-		"650857",
-		"5f040185e50ee3ca6fb0fd7e1b9e2361"
+		"653000",
+		"e9911c6d10d4ed1eeb62a83f35b17293"
 	],
 	"sharecfgdata/spweapon_data_statistics": [
-		"247014",
-		"4b342fba8e0664dc49ae8b8471da4685"
+		"251056",
+		"0b4244b913f39838dd449251fbeecb88"
 	],
 	"sharecfgdata/task_data_template": [
-		"1885249",
-		"3dfadcceebcacffe8b29c857965ed98a"
+		"1904572",
+		"4bfad1738fe8787cae87371635cf9bed"
 	],
 	"sharecfgdata/weapon_property": [
-		"13225814",
-		"fb2c2070c4b2aefa1ed4e9394281d07f"
+		"13226714",
+		"be02a62f2d5b787a737d3c281104137e"
 	],
 	"sharecfgdata/world_chapter_template": [
 		"4056113",
@@ -57580,8 +57580,8 @@
 		"44c1d0308e144f66c91b9bd077f28433"
 	],
 	"ui/activityuipage/surveypage_atlas": [
-		"937079",
-		"240c3a39504c0d41c7201a53e0db5081"
+		"927796",
+		"c670547626621beaf05c798777e59e82"
 	],
 	"ui/activityuipage/wakabachrisskinpage_atlas": [
 		"331255",
@@ -58024,8 +58024,8 @@
 		"5acaaadf008d65a9dbe64318b97ebe4e"
 	],
 	"ui/backyarddecorationui": [
-		"29783",
-		"8fa5addcca11b058b64f61b3384f5598"
+		"30610",
+		"128123d3e08b4bd073d26123aa5b543e"
 	],
 	"ui/backyardfeedextendpanel": [
 		"8007",
@@ -58948,8 +58948,8 @@
 		"d58b92b96bbe19b5e3901d246052a2e1"
 	],
 	"ui/courtyardui_atlas": [
-		"191779",
-		"dcd959d1b6b4af7973a27b7ba26b0f58"
+		"192588",
+		"ded4a82d01d1aa151fe0d9097091d5d5"
 	],
 	"ui/courtyardwindowui_atlas": [
 		"57315",
@@ -62824,8 +62824,8 @@
 		"01b2a38dbd1b7ff67b73c4be7eef8be5"
 	],
 	"ui/newbackyardshopui_atlas": [
-		"166299",
-		"c48440b1656281510cb4721d56aeec8b"
+		"167007",
+		"48714f8010b40c2c4c5f449b2943a5b6"
 	],
 	"ui/newbackyardtemplateui": [
 		"11557",
@@ -64865,7 +64865,7 @@
 	],
 	"ui/surveypage": [
 		"8284",
-		"57ded596110f7709ac8693574e35381e"
+		"f698662f61964192dd13073fe7af7890"
 	],
 	"ui/svachievement": [
 		"44049",
@@ -68620,8 +68620,8 @@
 		"7255bf569e006ccb6e235e3f15072db1"
 	],
 	"sharecfgdata/item_virtual_data_statistics": [
-		"1646252",
-		"7b90095d82cf3bd9742ced8010932dc2"
+		"1519100",
+		"7c9e70fde121270858662735b4855ef8"
 	],
 	"shoppainting/magedebao_pt": [
 		"272449",
@@ -74268,8 +74268,8 @@
 		"bbf955d50b40bb5a3973d68d0b0c250a"
 	],
 	"ui/educatebagui": [
-		"71545",
-		"b25dc9ad55276135c4df74ebac7c3ec6"
+		"71580",
+		"2ffa02ea716aa7bbe1f28c5ce0d1a296"
 	],
 	"ui/educateendingui": [
 		"20703",
@@ -74292,8 +74292,8 @@
 		"cd7e72048fcabc7bd78876a72e22e5b4"
 	],
 	"ui/educatetargetsetui": [
-		"12571",
-		"e970dbac8cb41fd76af8886651097c56"
+		"12827",
+		"6c4c69cfe8e34af36e0316f2e3e1ef62"
 	],
 	"ui/educatetoppanel": [
 		"5633",
@@ -74384,8 +74384,8 @@
 		"660d4a6cd3fa545fb4a744f4a73d2cab"
 	],
 	"ui/educatescheduleui": [
-		"56541",
-		"45d4cb9fb4f4f87987a5adcd164e7e33"
+		"51001",
+		"0f1591e6b477c36ee46cb12f693e9f58"
 	],
 	"ui/educatescheduleperformui_atlas": [
 		"102238",
@@ -74404,8 +74404,8 @@
 		"11130b689b2f4324e1e3ab5ca78eb394"
 	],
 	"ui/educatemapui": [
-		"13995",
-		"c67c0c2b701fd1c30a2311d35f559cfa"
+		"14060",
+		"79736ddaf479b25a3a5386ef5a06fc08"
 	],
 	"ui/educatedatepanel": [
 		"7327",
@@ -74420,12 +74420,12 @@
 		"556b6aae6bda99c723a8516b97d9db7a"
 	],
 	"ui/educatebottompanel": [
-		"12745",
-		"74594519c5767825619305ccb3b0a6d7"
+		"12747",
+		"461ba5cd36e92d1fd5e7f1e48230d830"
 	],
 	"ui/educateendingui_atlas": [
-		"378598",
-		"b5eca71f9665b3acbac520738e324d4b"
+		"384556",
+		"2a98a0ec769f8d8c3d4fec7c9201feb4"
 	],
 	"ui/educatememoryui_atlas": [
 		"613242",
@@ -74444,12 +74444,12 @@
 		"22c9fdbf00bc3339bcfac00cd4f95575"
 	],
 	"ui/educateawardinfoui": [
-		"143565",
-		"88ab01dea17c6a0894debbf145f48c75"
+		"143559",
+		"fe3e220644371ac6ba0761690e9b8b5c"
 	],
 	"ui/educatescheduleui_atlas": [
-		"491446",
-		"b75f44c0e76f2f116162ad9f8eae04c7"
+		"491860",
+		"7e3cb695bb31888fd408729457d13750"
 	],
 	"ui/educateitem": [
 		"61691",
@@ -74468,8 +74468,8 @@
 		"f279322eda3b2c5d9ab613652add803b"
 	],
 	"ui/educatepolaroidui_atlas": [
-		"572850",
-		"d18e3a0e591b00fd4ae01e45c795fc9c"
+		"567620",
+		"a919552890aa14a1c0b5bd9462c057fc"
 	],
 	"ui/educatetargetpanel": [
 		"7555",
@@ -74530,5 +74530,205 @@
 	"ui/activityuipage/skinmagazinespringpage2_atlas": [
 		"3846388",
 		"17ac609b1017ff11db48e55cf98e38d1"
+	],
+	"spinematerials": [
+		"2526",
+		"b7c96f018086f1cd6cf5b3d876fa2919"
+	],
+	"activitybanner/permanent_changliang": [
+		"245643",
+		"11846ca95b402ec938001bf79193c90c"
+	],
+	"activitybanner/lanternfestival": [
+		"126649",
+		"1be52c8b3d269d5708c6b47161b0f4dc"
+	],
+	"activityuitable/changliang_permanent_text": [
+		"23850",
+		"ec2dcc6a085feb82135296e5fd251bf2"
+	],
+	"activityuitable/xiangshanerxing_text": [
+		"21060",
+		"704c053a8e09dcac8c6bb5715e271cdd"
+	],
+	"activityuitable/xiangshanerxing_text_selected": [
+		"20791",
+		"8a06412004843c25c0a8d40ee60451a6"
+	],
+	"activityuitable/changliang_permanent_text_selected": [
+		"23884",
+		"739ff33bea754f646107a02cdccc038d"
+	],
+	"activitybanner/temp_talin": [
+		"261059",
+		"03ccdc8214e7872dc618753719bfa9bb"
+	],
+	"char/ninghai_8": [
+		"293682",
+		"67d599a3f1b0ee638c8945ed9e32d803"
+	],
+	"char/pinghai_8": [
+		"176695",
+		"cf47798918041e1e0782a70cff1c7b51"
+	],
+	"bg/star_level_bg_545": [
+		"713062",
+		"74322b383a65cc0f068932b1cc55e1a4"
+	],
+	"cue/bgm-story-richang-sooth.b": [
+		"814624",
+		"62aab432ae8b45a3c7658bab3cc36504"
+	],
+	"equips/51280": [
+		"9352",
+		"de16c4d145e1e0816dad98cf2caa53ab"
+	],
+	"equips/91280": [
+		"9350",
+		"a1c9633871a592f863a920cbe138ee18"
+	],
+	"cue/bgm-story-darkplan.b": [
+		"772384",
+		"c7df2c8255d43b5573174031c0900d18"
+	],
+	"furnitureicon/slrzthemeicon": [
+		"69154",
+		"8b1518b8df8468019438f6b21153c088"
+	],
+	"herohrzicon/ninghai_8": [
+		"19486",
+		"8ddaf503de886f07d0c03fbab7d5d871"
+	],
+	"furnitrues/chuanmo/livewutaipsp": [
+		"4349",
+		"d6bf28699922ed2bb791bbf89f41b2c9"
+	],
+	"furnitureicon/maozi4xunzhangicon": [
+		"8720",
+		"ff2580cf448cf6f9dac90257dc055d6f"
+	],
+	"herohrzicon/pinghai_8": [
+		"14214",
+		"a6e249c063b2c627a3a0015e8cb9ce4c"
+	],
+	"iconframe/329": [
+		"69062",
+		"d16478bcaca773f793066b04805246dc"
+	],
+	"linkbutton/event_lanternfestival": [
+		"15853",
+		"2f1aa571ae50f16b58e1537bac2c1d18"
+	],
+	"linkbutton/text_event_lanternfestival": [
+		"15217",
+		"9154e36f50af733d34ef697633c9175e"
+	],
+	"memoryicon/memory_xiangshanerxing": [
+		"31366",
+		"f3b6b3cbbab87ecdc4c72e3dbb09424f"
+	],
+	"memoryicon/memory_zhenhai": [
+		"31678",
+		"82a050a470228ee7f9c9832564fafcd2"
+	],
+	"paintingface/ninghai_8": [
+		"981616",
+		"15db82852ff87bed8156a05b8b45e98d"
+	],
+	"qicon/ninghai_8": [
+		"10993",
+		"521c9a53e8f33b597ae75184bb8a84a6"
+	],
+	"memoryicon/title_chara_zhenhai": [
+		"194534",
+		"78a1322afb7f64959e0069ffa177a638"
+	],
+	"paintingface/pinghai_8": [
+		"1015037",
+		"49882342df4f01b41cfb5d0684f4912e"
+	],
+	"props/xunliandianshu_mv4": [
+		"12892",
+		"277cfe54d38ecfaff601a61cc80686a0"
+	],
+	"qicon/pinghai_8": [
+		"10519",
+		"8646b451c9694ee16ec35d6c4be31389"
+	],
+	"sfurniture/maozi4xunzhang": [
+		"43270",
+		"06f3f8befb403e17ff3c15e860d780f5"
+	],
+	"shipmodels/pinghai_8": [
+		"44994",
+		"7901554052da6237542f1c74bc7a7988"
+	],
+	"shipmodels/ninghai_8": [
+		"44912",
+		"df93205793562fe215f47f5b877c655f"
+	],
+	"shipyardicon/ninghai_8": [
+		"31875",
+		"b406204afd09e72e45386a01e50d8065"
+	],
+	"shipyardicon/pinghai_8": [
+		"30774",
+		"79cff81e989602f57d27a9dc77ffe012"
+	],
+	"spweapon/12880": [
+		"10392",
+		"27e1e56e24019ad3d0739ea3ade195c5"
+	],
+	"spweapon/12860": [
+		"9733",
+		"cda2067337d8ce3670b1f4c4e898779c"
+	],
+	"squareicon/pinghai_8": [
+		"12077",
+		"e167c66292dbe530f2f95e40d2a80e6a"
+	],
+	"squareicon/ninghai_8": [
+		"11949",
+		"e198000eda1164bd376ded41645564ba"
+	],
+	"storyicon/weineituo": [
+		"95522",
+		"1e2e2609f6a70af84a34dd79c821daab"
+	],
+	"ui/chkalovteccatchuppage": [
+		"9046",
+		"b9a2b68f0cf87112a4d5dc7a38a47ae1"
+	],
+	"ui/lanternfestivalui": [
+		"793747",
+		"345a054b41c02e8a1cec6339d5087121"
+	],
+	"ui/maoxiv4framepage": [
+		"15059",
+		"e33dca261214ed90ee61181c7fd66be9"
+	],
+	"ui/maoxiv4taskpage": [
+		"14267",
+		"17ba2e208773ef16e97119627f3c9a6c"
+	],
+	"ui/nagaraskinpermanentpage": [
+		"13818",
+		"6dd20c825c3aea3e895137db1efdcfa4"
+	],
+	"ui/activityuipage/chkalovteccatchuppage_atlas": [
+		"216864",
+		"aa79686cc3d77c364c0d45437c5a80bf"
+	],
+	"ui/activityuipage/maoxiv4framepage_atlas": [
+		"493865",
+		"ba562a8098edd280e2e56c0ec3355239"
+	],
+	"ui/activityuipage/nagaraskinpage_atlas": [
+		"501667",
+		"04a5d1491a279d83a13856cdac8caf08"
+	],
+	"ui/activityuipage/maoxiv4taskpage_atlas": [
+		"282558",
+		"0165d24a45d1a9391e38a682db320753"
 	]
 }

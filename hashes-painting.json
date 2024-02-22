@@ -7096,8 +7096,8 @@
 		"7830e7a7a63cab8a09582fe6df880c8d"
 	],
 	"painting/haitian": [
-		"7075",
-		"11cd17c4817fe581b8ce73194f1beeb4"
+		"647605",
+		"9008b7a419c068d56b38b79fc01bbf9e"
 	],
 	"painting/haitian_2": [
 		"7110",
@@ -7160,8 +7160,8 @@
 		"62a70a4c1cb2c4ab16693b3fc823d90e"
 	],
 	"painting/haitian_n": [
-		"7099",
-		"36c466ae3edd2ce9367bc272decc3cea"
+		"647597",
+		"9f2586cf1fa254ece6ac540005aeb17d"
 	],
 	"painting/haitian_n_tex": [
 		"1193834",
@@ -24668,8 +24668,8 @@
 		"203f5bc8c0e206c85180d1ba0d20916e"
 	],
 	"painting/shenxue_3_n": [
-		"6814",
-		"2f7742921728803f8c2d5ede1f4faead"
+		"6878",
+		"81401859c8b09183d6773a89a64cfb20"
 	],
 	"painting/longwu_2_tex": [
 		"6158228",
@@ -25002,5 +25002,49 @@
 	"painting/shitelasai_4_tex": [
 		"9776067",
 		"518a3056549ecb52bbc39bd1fdb5e675"
+	],
+	"painting/ninghai_8_n": [
+		"7123",
+		"3ed9a1da0740fb91d88881e0add6e845"
+	],
+	"painting/ninghai_8": [
+		"7171",
+		"a24c5a24fdb36f3223dd3f5dd9bf1250"
+	],
+	"painting/pinghai_8": [
+		"7070",
+		"2e24a7be71d2d48ae425f190f7938754"
+	],
+	"painting/pinghai_8_n": [
+		"7089",
+		"54167f0c5a5bd309c53e8d8f9f137813"
+	],
+	"painting/ninghai_8_bj_tex": [
+		"730184",
+		"fce436ef48b564101da0cdff670fafca"
+	],
+	"painting/ninghai_8_tex": [
+		"828839",
+		"adba07cec281896340961556824d5f68"
+	],
+	"painting/ninghai_8_rw_tex": [
+		"440464",
+		"a33d64837d01a879d546caea09aec0c0"
+	],
+	"painting/pinghai_8_n_tex": [
+		"489754",
+		"4c1ba4a87c67708cafc7138a80cc4c1a"
+	],
+	"painting/ninghai_8_n_tex": [
+		"1472499",
+		"0f5aa860194e2f2998a5a0a6c9ebd24d"
+	],
+	"painting/pinghai_8_rw_tex": [
+		"1536454",
+		"3c805a4682b669e9c7b9b8426c28f685"
+	],
+	"painting/pinghai_8_tex": [
+		"3356282",
+		"1191fae3c84a4bc81b2f7bf6c8cf8ba5"
 	]
 }
