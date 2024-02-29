@@ -12,8 +12,8 @@
 		"1c3425c58abe0b93c5842b35d2c33ba3"
 	],
 	"activitybanner/limit_skin": [
-		"159049",
-		"49420f152d3101563b6ccc01cc7dc71c"
+		"155265",
+		"87995e6cf621d854977565f3b88e4f7b"
 	],
 	"activitybanner/meta_entrance_970205": [
 		"150427",
@@ -40,48 +40,48 @@
 		"2ce0533cbca28d0946f3df6fb30b9606"
 	],
 	"activitybanner/temp10": [
-		"560278",
-		"d40d7a2b04027366413321256c8c1fec"
+		"523956",
+		"94e4344ce5fbcd179aa4eaa687c23085"
 	],
 	"activitybanner/temp2": [
-		"76400",
-		"1e06e8c77ea883f8092cd3d7b39b9f16"
+		"85501",
+		"144d6642e97f9672b607b6b940873fb8"
 	],
 	"activitybanner/temp3": [
-		"75046",
-		"f2feff6d558ece9843dbd6dafe3675cb"
+		"83333",
+		"200654323888456593e322e3258f51e3"
 	],
 	"activitybanner/temp4": [
-		"77653",
-		"f0c1e66acab6d38f4009f067b364d4b2"
+		"78921",
+		"16c101d118a00c6e4fe7bbdf35c3514b"
 	],
 	"activitybanner/temp5": [
-		"74093",
-		"a0544f3a1cd1ca5aa37fd67856b14856"
+		"76018",
+		"4e4bb8683ee2be054da2f4e872cfdd0e"
 	],
 	"activitybanner/temp6": [
 		"82417",
 		"1caba581d20d5b2bf3faae09d4408fed"
 	],
 	"activitybanner/temp7": [
-		"79726",
-		"851ac6a392b160b7b6640996d364b792"
+		"85478",
+		"61836305102ddbbdf3ee7996ff742a37"
 	],
 	"activitybanner/temp8": [
-		"69483",
-		"986ccc17ee0319880f85b7cc324b38de"
+		"69297",
+		"dbe69f23c78931acafb7843a85b2ceea"
 	],
 	"activitybanner/temp9": [
-		"81240",
-		"760de877540e2a7cd1bbe089c57eb6c0"
+		"77997",
+		"a7d230d39c7d52281fae5db21781f5aa"
 	],
 	"activitybanner/temp98": [
 		"939582",
 		"dc4f7702fea11281efadf6f54d8ec04a"
 	],
 	"activitybanner/temp99": [
-		"2069941",
-		"d31d4e2848d061f3947ebe1fcf0e6202"
+		"971147",
+		"897f4a14a09ac509ec1fd31ea073f203"
 	],
 	"activitybanner/temp_aisijimoren": [
 		"189011",
@@ -12660,8 +12660,8 @@
 		"372820908e93806d7c5bef13bf88bb07"
 	],
 	"cue/se-ui.b": [
-		"3309984",
-		"b0ec609d3c90a4e2be4c2927baf11758"
+		"3406848",
+		"2f7d346c9fc8d1fa88764ee147062d08"
 	],
 	"cue/ss-10125-1.b": [
 		"106528",
@@ -12856,8 +12856,8 @@
 		"d0936b733e1705b13668eaae9c747a59"
 	],
 	"dependencies": [
-		"1648940",
-		"5e43a668b759486fc16152d3c40af2b1"
+		"1665550",
+		"30eb37a7ac5b583f9fece03fe6250600"
 	],
 	"effect/aerjiliya_alter_zhuaji": [
 		"46296",
@@ -12888,8 +12888,8 @@
 		"baec678f9eb0aa428bb33e82deb5d933"
 	],
 	"effect/bingzhui_drop": [
-		"167915",
-		"2bf88c096bbcb17ac320380cc606b574"
+		"167916",
+		"556f2f3022402ed29c61cfd06819af26"
 	],
 	"effect/bossbomb_red": [
 		"153188",
@@ -30072,8 +30072,8 @@
 		"0eb086ed8859754e26540add82ec0352"
 	],
 	"item/bullet_elf_ice_low": [
-		"3903",
-		"7260184b97802624f916e9c62defbb63"
+		"3701",
+		"71107313a40ae7d6bb3994f5606af058"
 	],
 	"item/bullet_fliud_white": [
 		"28291",
@@ -30132,8 +30132,8 @@
 		"e63a3e9378ef15be9c294ae7ddcbb486"
 	],
 	"item/bulletcommon": [
-		"996529",
-		"ec9aff9658cd04c38970c997844e0cd9"
+		"729996",
+		"7a3d5e9a87b1f0140c4a20c1b898108a"
 	],
 	"item/bulletger_white": [
 		"3601",
@@ -30936,16 +30936,16 @@
 		"8b4355706f449e7fca03214385779f83"
 	],
 	"linkbutton/event_all": [
-		"14426",
-		"bb8f435d81edaceb6cf81b34cc2f4cd1"
+		"14566",
+		"9ff9ffe43633d5243e26847bf70a49a6"
 	],
 	"linkbutton/event_boss": [
 		"14950",
 		"9ac828f93fe2edf657cc5b9588c46eb7"
 	],
 	"linkbutton/event_map": [
-		"14769",
-		"def72d4d9b25d688ca0157acdee65165"
+		"14814",
+		"1ed643a26d2216070c3ab54cb162ada6"
 	],
 	"linkbutton/event_medal": [
 		"17207",
@@ -30992,16 +30992,16 @@
 		"2a41428e565438fb46fd554cce15f3ac"
 	],
 	"loadingbg/bg_11": [
-		"562551",
-		"7f3e0029691790ddb89ecd9077404a27"
+		"1173682",
+		"45cd42ec6934bc2d41aec35355d86326"
 	],
 	"loadingbg/bg_12": [
-		"586282",
-		"3aa7aceaebbbedd22d308dad5be52db1"
+		"579153",
+		"ccb1925192b1f5762c6dda47c0152cc4"
 	],
 	"loadingbg/bg_2": [
-		"594170",
-		"835f8ef9f773bbeea8f416623e5072ac"
+		"591377",
+		"55bdbf6ca23074fe6106de4875a60b17"
 	],
 	"loadingbg/bg_3": [
 		"578643",
@@ -31016,20 +31016,20 @@
 		"e80c6629b4db4808510d40ce54335a49"
 	],
 	"loadingbg/bg_6": [
-		"571815",
-		"5e563ca0ce7f2894c16815dc0a4fe036"
+		"566740",
+		"c6a4f4c097a1d3f7cd00cf91ebdfd4ba"
 	],
 	"loadingbg/bg_7": [
 		"588582",
 		"b6f7dbbaea94a28877f516a32ad66a63"
 	],
 	"loadingbg/bg_8": [
-		"560088",
-		"974bffde2a78601daf50f2a32a4f700b"
+		"556383",
+		"387287db97c65b6ff5fd9ff588e91a6d"
 	],
 	"loadingbg/bg_9": [
-		"577073",
-		"fa88aefe0247cb225814639f751b4047"
+		"608005",
+		"f2487b8a6b4881164e984cec80a0b8f3"
 	],
 	"loadingbg/bg_build_1": [
 		"1557586",
@@ -31048,8 +31048,8 @@
 		"1188a10d8989fd1b81dbc4003255854e"
 	],
 	"loadingbg/bg_build_4": [
-		"2078077",
-		"d60ef25819219a9880b0c850aedc05ca"
+		"1549447",
+		"3c50cc4c3b3da089e52cadd4bf7c915b"
 	],
 	"loadingbg/bg_build_4_act": [
 		"2216641",
@@ -31060,8 +31060,8 @@
 		"86d1de699e674f1695916968ed6febbc"
 	],
 	"loadingbg/login": [
-		"2027177",
-		"a7bf3925d315394bd28d10524ca63c7f"
+		"1869067",
+		"8824272d019ef78f983512ffc38dfb82"
 	],
 	"loadingbg/login_0817_1": [
 		"285127",
@@ -39508,8 +39508,8 @@
 		"c60cec3e68aaef0fc46b0cb2c47d27ac"
 	],
 	"originsource/cpk/op_zh.cpk": [
-		"30574720",
-		"1d0769d56712d1fccb4f14b2b8effb00"
+		"59449472",
+		"02f8e13b07981d725379709bd73b0044"
 	],
 	"originsource/cpk/paocha_1.cpk": [
 		"2084992",
@@ -39808,8 +39808,8 @@
 		"34ea82ee8f3e61548eec221c02203a4b"
 	],
 	"painting_filte/painting_filte_list_change": [
-		"14657",
-		"5a64bed253e72c95fc5b0365a18aebd9"
+		"13722",
+		"37781176ef195ee275eab51f2f0557a2"
 	],
 	"painting_filte/painting_filte_list_const": [
 		"3217",
@@ -46704,12 +46704,12 @@
 		"71e4e0255cca160d79c5834515e14a69"
 	],
 	"scripts32": [
-		"25423256",
-		"505865dfe9d06de9af3fb66a64e2502d"
+		"25740027",
+		"c3415c923d919fe70a691bb75c439058"
 	],
 	"scripts64": [
-		"25466633",
-		"4f2e3c1334ff29adba6a028c31c74054"
+		"25720345",
+		"5009f5eb5ec5584efc8e99344569cbc4"
 	],
 	"sfurniture/alexisgltb": [
 		"103092",
@@ -46968,76 +46968,76 @@
 		"065442f6ba4d0acd8c0a38871c8fbb53"
 	],
 	"sharecfgdata/aircraft_template": [
-		"2288419",
-		"846a1136d7a962f8e5b73eb4a097ac1c"
+		"2302790",
+		"0f0b33c2afcc836d48ba3dda54037384"
 	],
 	"sharecfgdata/barrage_template": [
-		"6166838",
-		"2843e548832e8714fec081a46eb67074"
+		"6210604",
+		"81d836aca38c29afb02c422f28e71ba8"
 	],
 	"sharecfgdata/bullet_template": [
-		"8433491",
-		"78f05d744e8e288a1d5f4f6a91f1ba65"
+		"8588554",
+		"0e7785d1926a721b40cee573896a5646"
 	],
 	"sharecfgdata/chapter_template": [
-		"4680686",
-		"56856d181ff793cc9a1a088fb39457ef"
+		"4744990",
+		"af8df4529fa3ee662458e491672e094b"
 	],
 	"sharecfgdata/chapter_template_loop": [
-		"2814022",
-		"5d83cfac585b3488f1f6738b285852ce"
+		"2866185",
+		"c9df12a60375e8aae94931fce8f88f7f"
 	],
 	"sharecfgdata/equip_data_statistics": [
-		"1983124",
-		"e8c9344fa73ce2ee8503ed6ef5e7a12d"
+		"1989263",
+		"7e8b7803dc4c2b0482b6d9c6215fdefe"
 	],
 	"sharecfgdata/equip_data_template": [
-		"2656135",
-		"3540282e9e4c7ec1f7e295e1ece20f4d"
+		"2665193",
+		"435fb7ffcd2ad645adaf8cc60b077257"
 	],
 	"sharecfgdata/expedition_data_template": [
-		"9026881",
-		"db22520514fea485f0e9783bb756d749"
+		"9183252",
+		"65077ede318b5f410b583c4e56b6cea1"
 	],
 	"sharecfgdata/gametip": [
-		"869517",
-		"6664c8828825d15651d61e59c7ec5917"
+		"870646",
+		"af68d9ba70c693b8fb934a4f490c3873"
 	],
 	"sharecfgdata/item_data_statistics": [
-		"1372874",
-		"3c006e5c561b669d0e22883fa71f92e1"
+		"1375665",
+		"37775bc3a5dec709d2e6382dcd9c3331"
 	],
 	"sharecfgdata/ship_data_breakout": [
-		"712003",
-		"e6546f47483f9511c099ffbcbda76263"
+		"716148",
+		"804aaa9d557a5f91e3139c9ff0179f63"
 	],
 	"sharecfgdata/ship_data_statistics": [
-		"3249940",
-		"ab854cadaf8fb9ee1a646668ff7f9f6f"
+		"3270687",
+		"13d9c25a06b4547272ab29509defb77e"
 	],
 	"sharecfgdata/ship_data_template": [
-		"1501578",
-		"86cfa335899987c1d62ada3d7866e520"
+		"1511817",
+		"de38d4e3de22be880bc49f5f6eb630d5"
 	],
 	"sharecfgdata/ship_skin_words": [
-		"3878083",
-		"3dad807b73a49994494156d8f2336db9"
+		"3911275",
+		"c8914a1aa6e2d002b4c6e89da497d55e"
 	],
 	"sharecfgdata/shop_template": [
-		"653000",
-		"e9911c6d10d4ed1eeb62a83f35b17293"
+		"660245",
+		"2b265bb8936d50c21338d1192a0859bc"
 	],
 	"sharecfgdata/spweapon_data_statistics": [
 		"251056",
 		"0b4244b913f39838dd449251fbeecb88"
 	],
 	"sharecfgdata/task_data_template": [
-		"1904572",
-		"4bfad1738fe8787cae87371635cf9bed"
+		"1918631",
+		"f6d157ee6cfcdcab4eceb3a77eb83b25"
 	],
 	"sharecfgdata/weapon_property": [
-		"13226714",
-		"be02a62f2d5b787a737d3c281104137e"
+		"13308656",
+		"06e4a46da8bfb6ddbd01050e4a6216a2"
 	],
 	"sharecfgdata/world_chapter_template": [
 		"4056113",
@@ -51972,8 +51972,8 @@
 		"183afdc30cf64d00414d4042e41d832b"
 	],
 	"shipmodels/saiwasituoboer": [
-		"43918",
-		"f5170e8f3c9c6a31920b626dd5d3a6cd"
+		"52585",
+		"293b6cdcc15a875e3b188a512935024d"
 	],
 	"shipmodels/saiwasituoboer_2": [
 		"41839",
@@ -58024,8 +58024,8 @@
 		"5acaaadf008d65a9dbe64318b97ebe4e"
 	],
 	"ui/backyarddecorationui": [
-		"30610",
-		"128123d3e08b4bd073d26123aa5b543e"
+		"30671",
+		"b5c18cc7858f7c727957d6d24c687855"
 	],
 	"ui/backyardfeedextendpanel": [
 		"8007",
@@ -59257,7 +59257,7 @@
 	],
 	"ui/emojiui": [
 		"15445",
-		"d34258fd99a6b6fc654268326229a37f"
+		"7e324f94f42771bf25e467575396cb7c"
 	],
 	"ui/emojiui_atlas": [
 		"19771",
@@ -60764,8 +60764,8 @@
 		"59fb9852b747fe0f09fa7c252f51d88b"
 	],
 	"ui/levelmainscene_atlas": [
-		"873571",
-		"4a9658aa81c2c349da0b6ad0529c3903"
+		"872344",
+		"b212e526f90b1845a238b065a53f1bf7"
 	],
 	"ui/levelmap_1420001_atlas": [
 		"10331",
@@ -62948,8 +62948,8 @@
 		"763bd44b359071501d2beddd8634b132"
 	],
 	"ui/newskinshopui": [
-		"26669",
-		"24d6f5d68023ae2cdefd4330f61b7670"
+		"29484",
+		"6a1ebfb78fadd42601ab3a42df08460c"
 	],
 	"ui/newskinui": [
 		"15997",
@@ -62964,8 +62964,8 @@
 		"1ed9cecbec11cc8037558381520ce7aa"
 	],
 	"ui/newstoryui": [
-		"25625",
-		"d1e93bcf717a8764d8013ddeec6e49c3"
+		"26419",
+		"bc6f352ffba65d0c5600f7aec841443d"
 	],
 	"ui/newyearfestival2022ui": [
 		"10788",
@@ -63048,8 +63048,8 @@
 		"369ffa0ae02b8d39e90562efdf12983f"
 	],
 	"ui/opening": [
-		"12448",
-		"7167d7c0e75ae0032fff83f1da105ef3"
+		"12449",
+		"26ad0a89fed199d13eac67ff3b7aca67"
 	],
 	"ui/ouxiang_guanggaopai": [
 		"32732",
@@ -64188,8 +64188,8 @@
 		"2c1f4e1d411d98a34cdbde5cac440bd2"
 	],
 	"ui/shipprofileui": [
-		"23036",
-		"a2339e55597c3252e3fffdc6a19ce876"
+		"23043",
+		"98db8390f8c7bbda4cdfd07934ec00d7"
 	],
 	"ui/shipprofileui_atlas": [
 		"153987",
@@ -64344,8 +64344,8 @@
 		"b16678d95c0e7eba4d6b883a7172f022"
 	],
 	"ui/skinshopui_atlas": [
-		"265724",
-		"91f1fc5e79f6ac2ffadd115e4ac1521e"
+		"631383",
+		"53b1b93a6e416f24c6ac3b5a787e4972"
 	],
 	"ui/skinunlockanim/star_level_unlock_anim_101441": [
 		"15431876",
@@ -65052,8 +65052,8 @@
 		"1a7df8d63436010882d40d9245406e24"
 	],
 	"ui/toastui": [
-		"14474",
-		"6a4839c49b3a6aecd1f5463a61d6ea2f"
+		"15231",
+		"113133d170344f3556a96a7d6ba0815f"
 	],
 	"ui/toastui_atlas": [
 		"32346",
@@ -66820,28 +66820,28 @@
 		"f54d2efac813e653fa52320c8765c33a"
 	],
 	"item/paodan_laba": [
-		"3605",
-		"6cd9503f0d1adf0d576f55583cd6bd5a"
+		"27566",
+		"0025a3a88c93ad17a70e6b66e078bc8b"
 	],
 	"item/tuowei_daodan": [
 		"29486",
 		"d261d668898f4935fc1c3135fcf9c4a2"
 	],
 	"item/yulei_nihongyinxiang": [
-		"28601",
-		"f85a83ef08a87d1eaf25f09260534cf9"
+		"38043",
+		"1fddb31391be407703eca862699306b1"
 	],
 	"item/yulei_nihongluobo": [
-		"28565",
-		"5af3ac773a947ed62ec883adc54c09a7"
+		"51889",
+		"a5f475ca0431ebd35962cb68d63c0c31"
 	],
 	"item/yulei_nihongjita": [
-		"28623",
-		"84649ee9d297ec76f9045db77b820f63"
+		"46247",
+		"4301e2fc71f49de6e179cd24e75f11f7"
 	],
 	"item/zidan_maikefeng": [
-		"3608",
-		"04829890ca85020c940e38aff038596c"
+		"25178",
+		"cc9ea34906bdf4f5313948bf0fa90ffb"
 	],
 	"item/zidan_xingxing": [
 		"43537",
@@ -66924,8 +66924,8 @@
 		"e7c40c774c6a4367c9b88475a6da1eba"
 	],
 	"item/zidan_tuer": [
-		"3613",
-		"314f8c15883afc05de219137f68e1ea6"
+		"21634",
+		"9150a38a44e9f1834aec48afb888b4e4"
 	],
 	"levelmap/map_1780001": [
 		"174358",
@@ -67796,8 +67796,8 @@
 		"3c1a70ea9b1a832f431a09b4a2b3b94b"
 	],
 	"storyicon/silverfox_shadow": [
-		"46899",
-		"3b883d0a9df4936d56c8f3c06235b1d3"
+		"47779",
+		"d82b09f7a6030f17b437904d473db96b"
 	],
 	"strategyicon/200735": [
 		"10246",
@@ -68620,8 +68620,8 @@
 		"7255bf569e006ccb6e235e3f15072db1"
 	],
 	"sharecfgdata/item_virtual_data_statistics": [
-		"1519100",
-		"7c9e70fde121270858662735b4855ef8"
+		"1670767",
+		"fb059f97966dfc17d5ac061918a2a012"
 	],
 	"shoppainting/magedebao_pt": [
 		"272449",
@@ -69400,28 +69400,28 @@
 		"5516b96a66071cac9493f6fa1dc5f9fa"
 	],
 	"item/paodan_bagua": [
-		"3625",
-		"7ba33adb80805bd6ba21d4acbc10cad8"
+		"38005",
+		"deb66d12afca3b41b0e09fa1c565eac5"
 	],
 	"item/paodan_hulu": [
-		"3596",
-		"9f39dc5e2b33a83c6927dc01adf72f0e"
+		"23638",
+		"c03dd7919d6485c8ae7ed6feba775ad7"
 	],
 	"item/yulei_guqin": [
-		"28596",
-		"4813b3af5123637f7ac62999ca800249"
+		"44394",
+		"05f8d78e9abe58f28bd7c0dd03e799e3"
 	],
 	"item/heifangzhou_zhongyu_green": [
 		"68212",
 		"ddb5af5879afe1ace56c6b816e2c15c0"
 	],
 	"item/yulei_fuchen": [
-		"28602",
-		"e55b1aa6ea8037560963fb929d80e600"
+		"38534",
+		"30a59750f587fd1d0ee53407fe6d0244"
 	],
 	"item/yulei_dizi": [
-		"28682",
-		"ab3fae03977e03e58e9f915fbff59481"
+		"40513",
+		"eabdcb9daa38ee01d42f5e160a3269c5"
 	],
 	"item/paodan_jianzhen": [
 		"159475",
@@ -69440,8 +69440,8 @@
 		"17242322cc6ab4e8e696cf998ec4ec07"
 	],
 	"item/zidan_feijian": [
-		"8437",
-		"2e304e0f98e7e3dbd0c757d6df1056a3"
+		"23999",
+		"cc8c6c3fcd1141231d7ad236252f5deb"
 	],
 	"item/zidan_huanchang01": [
 		"16663",
@@ -69452,8 +69452,8 @@
 		"79f4956bc3b70134c138415352c130ab"
 	],
 	"item/zidan_fantianying": [
-		"3620",
-		"0d505962558a8ab0ff8b31d0c90f3085"
+		"15229",
+		"b9eb9621d8b129c1b1ee85419f859fa2"
 	],
 	"limitchallenge/boss/niukasier": [
 		"1298172",
@@ -69468,8 +69468,8 @@
 		"309e720b5d2e04c709ca8fddccdc4687"
 	],
 	"item/zidan_linglongqiu": [
-		"3623",
-		"243b421a471086a950977869785155dc"
+		"42903",
+		"e8e7a23e2f2da1941669a315123dd26e"
 	],
 	"item/zidan_baisehuzhua": [
 		"58640",
@@ -70640,8 +70640,8 @@
 		"cf88d987bd7b87414aaaa598f9127d32"
 	],
 	"char/aerbien_3": [
-		"441102",
-		"4a18eb481e9c49ec5e4e4bd6af4258d6"
+		"441036",
+		"2d6c6552bc04602db65794821d3b98fc"
 	],
 	"char/ankeleiqi_3": [
 		"260488",
@@ -74384,8 +74384,8 @@
 		"660d4a6cd3fa545fb4a744f4a73d2cab"
 	],
 	"ui/educatescheduleui": [
-		"51001",
-		"0f1591e6b477c36ee46cb12f693e9f58"
+		"51987",
+		"46f99f04f90a478bdfdc84a6ad0a7f67"
 	],
 	"ui/educatescheduleperformui_atlas": [
 		"102238",
@@ -74730,5 +74730,1765 @@
 	"ui/activityuipage/maoxiv4taskpage_atlas": [
 		"282558",
 		"0165d24a45d1a9391e38a682db320753"
+	],
+	"activityuitable/maoxiv4_main_text_selected": [
+		"20738",
+		"4a2f4d090b2366e47ddf0d1ce3b10436"
+	],
+	"activityuitable/maoxiv4_main_text": [
+		"20226",
+		"aa08d84f9c98cb8c6f8d3b2db2b9c482"
+	],
+	"activityuitable/sleeplesscity_text": [
+		"23598",
+		"e86b021f24509d9aa6ff44908832a4d5"
+	],
+	"activityuitable/maoxiv4_pt_text": [
+		"20199",
+		"d0208985a57050819cde6ca919dab806"
+	],
+	"activityuitable/maoxiv4_pt_text_selected": [
+		"20754",
+		"32200eac77c44bd8e23eb87ec7c7a82c"
+	],
+	"activityuitable/sleeplesscity_text_selected": [
+		"23269",
+		"445da1a7998b9ed265d734fbc2a426ad"
+	],
+	"backyardtheme/theme_108": [
+		"230461",
+		"43c397a1875b10c56a1b89fe3dc7a0f4"
+	],
+	"backyardtheme/108": [
+		"92769",
+		"da7de94cf7031a54bc9c046b98ed6f85"
+	],
+	"bg/bg_xuejing_1": [
+		"241113",
+		"2b11514e70d80381c46a95f231dcdbc5"
+	],
+	"bg/bg_xuejing_cg10": [
+		"829219",
+		"228375959e040b47aca7ae142dfa314c"
+	],
+	"bg/bg_xuejing_cg3": [
+		"780721",
+		"ab07af2ec01c0ebdcd1a814b7d2fded3"
+	],
+	"bg/bg_xuejing_cg9": [
+		"577243",
+		"c16c548eaf58e5aa175c5b09c2098250"
+	],
+	"bg/bg_xuejing_cg1": [
+		"675755",
+		"c6e8a1bd59cdd40c99f4754a3bd6da5b"
+	],
+	"bg/bg_xuejing_cg6": [
+		"800827",
+		"787bfd36ee8e254b561b7576eaffcce4"
+	],
+	"bg/bg_xuejing_cg4": [
+		"763704",
+		"ac160ed24457f4acb67f63593bba2c56"
+	],
+	"bg/bg_xuejing_cg8": [
+		"702624",
+		"0777abcb10126f0fa07579f1798b564c"
+	],
+	"bg/bg_xuejing_cg2": [
+		"867350",
+		"2269be7049eb0d944d0c9e8cd4904641"
+	],
+	"bg/bg_xuejing_4": [
+		"275089",
+		"635f29566b3dc9b45399e207fff205e6"
+	],
+	"bg/star_level_bg_542": [
+		"551865",
+		"223d44e19fc9bb0466fb544109ecd5b9"
+	],
+	"bg/star_level_bg_543": [
+		"248641",
+		"319d9ebade41f133d87801463f372fa5"
+	],
+	"bg/star_level_bg_599": [
+		"841573",
+		"6a4186050a905e461f4c83bb2f42824d"
+	],
+	"bg/bg_xuejing_cg5": [
+		"848387",
+		"2144be8012f86a5ae3f1b2a8bb9d7de2"
+	],
+	"bg/star_level_bg_541": [
+		"638169",
+		"987001582d3af578f0be3625e4cedeab"
+	],
+	"bg/bg_xuejing_5": [
+		"236016",
+		"a8f3b305b52843a307e1000fa9f69081"
+	],
+	"bg/bg_xuejing_3": [
+		"257272",
+		"735c7caaeacb431f3e18475475bc751e"
+	],
+	"bg/storymap_nanjidalu": [
+		"863619",
+		"838b2aacb096fde0dcdbf0cf32ac5a45"
+	],
+	"bg/bg_zuiedushi_cg1": [
+		"821287",
+		"6171b104b568ab77a98cf155b829ae33"
+	],
+	"bg/bg_zuiedushi_cg2": [
+		"914475",
+		"cd087d2d0d969112f3c19a9a7526dda8"
+	],
+	"chapter/tongmeng_2_1x1_1": [
+		"35152",
+		"e967b23d0bbc861217bd583d8d23a040"
+	],
+	"bg/bg_xuejing_2": [
+		"233584",
+		"fd3f570a789adf36570093d65a2d35fc"
+	],
+	"chapter/tongmeng_2_1x1_2": [
+		"30490",
+		"0e5eee484a7bb8920fb9634586819a8e"
+	],
+	"chapter/tongmeng_2_1x2_1": [
+		"24790",
+		"a053f120521172077847eb6eddbe4f19"
+	],
+	"chapter/tongmeng_2_1x2_2": [
+		"72487",
+		"5dd70c05b26330de23bf5a0b602adfd1"
+	],
+	"bg/star_level_bg_544": [
+		"206018",
+		"0a3750614642fe252b41cb91769c71c9"
+	],
+	"chapter/tongmeng_1_1x2_2": [
+		"155757",
+		"803229444caf947d4a57111b9c2823eb"
+	],
+	"chapter/tongmeng_3_1x1_2": [
+		"19840",
+		"79f0cce0c6a3731423de4bbd3baee680"
+	],
+	"chapter/tongmeng_3_1x1_1": [
+		"21894",
+		"d2671e542033a11682ee4b7de0357ba7"
+	],
+	"chapter/tongmeng_1_2x2_1": [
+		"196331",
+		"6471c2f23790e005d10e29ba29b2467e"
+	],
+	"chapter/tongmeng_2_3x1_2": [
+		"94309",
+		"423b142d612158e75f015fd55d7570b1"
+	],
+	"chapter/tongmeng_2_3x1_1": [
+		"82146",
+		"6bab48485000dfed50a779cdaa8de3e4"
+	],
+	"chapter/tongmeng_1_2x2_2": [
+		"228269",
+		"7d9da8c729de1569307eb60fe3c1dc25"
+	],
+	"chapter/tongmeng_1_3x1_1": [
+		"176379",
+		"ec1e281d1c61fcea61610ef8484d5706"
+	],
+	"chapter/tongmeng_2_2x2_2": [
+		"156375",
+		"42109decf290b0ea7f13e2fbc543702f"
+	],
+	"chapter/tongmeng_3_1x1_3": [
+		"119215",
+		"c1d647e68099ee96bacc2ce8f447ac6c"
+	],
+	"chapter/tongmeng_2_2x2_1": [
+		"155813",
+		"6e368e3f677d3ffdf8570d352233fceb"
+	],
+	"chapter/tongmeng_4_1x1_1": [
+		"66193",
+		"3bee333fa2cf2401ffd377a314763959"
+	],
+	"chapter/tongmeng_1_3x1_2": [
+		"175601",
+		"62e52fb3b6a0d220542c1cfdd804dd30"
+	],
+	"chapter/tongmeng_4_1x1_2": [
+		"55373",
+		"f9227f19f9a1e5299f600d34bbbfe5de"
+	],
+	"chapter/tongmeng_4_1x1_3": [
+		"111172",
+		"1256b9a3d00e964be17c5cb3ffd3f386"
+	],
+	"chapter/tongmeng_3_1x1_4": [
+		"117630",
+		"2763493f34f8b6d42c483b6d98c511d0"
+	],
+	"chapter/tongmeng_5_1x1_1": [
+		"48336",
+		"60ade8ede63f36ce0308d2e7737d4d50"
+	],
+	"chapter/tongmeng_4_1x1_4": [
+		"145472",
+		"6599ed901c8ea1d554f726e7a61b2e1c"
+	],
+	"chapter/tongmeng_3_3x1_1": [
+		"173049",
+		"9ee1199dcf727447003e6443ad7c67da"
+	],
+	"chapter/tongmeng_5_1x1_3": [
+		"62960",
+		"2638db7d5bccb0f4f5a153275607e6d7"
+	],
+	"chapter/tongmeng_3_1x2_1": [
+		"144507",
+		"4ba1b4133a45051040a2160f349476b3"
+	],
+	"chapter/tongmeng_5_1x1_2": [
+		"49219",
+		"5c44e6f2481edce126da853beff2b0fe"
+	],
+	"chapter/tongmeng_5_2x1_2": [
+		"99641",
+		"c02ccdece06eddc1cb48ea1ed245c141"
+	],
+	"chapter/tongmeng_3_3x1_2": [
+		"181403",
+		"e4fa8a2682014ffc42d23bdda3ae4cc8"
+	],
+	"chapter/tongmeng_3_2x2_1": [
+		"232300",
+		"7307b2df2a185862866d2e10f5312c15"
+	],
+	"chapter/tongmeng_4_1x2_2": [
+		"161690",
+		"f8241f3acf60f71478a168b4931e4a73"
+	],
+	"chapter/tongmeng_2_1x1_3": [
+		"35387",
+		"dc34bc7fefde415a7e4c014c00598b5a"
+	],
+	"chapter/tongmeng_5_3x1_1": [
+		"93725",
+		"5f2648a87578cede851a5e4e63ef7205"
+	],
+	"chapter/tongmeng_4_2x2_2": [
+		"269181",
+		"54b57fad3a5488c28ea0149f617413f2"
+	],
+	"chapter/tongmeng_3_2x2_2": [
+		"265279",
+		"217f4c96b203bd56a70416a534eb4f77"
+	],
+	"chapter/tongmeng_4_1x2_1": [
+		"146319",
+		"6b5b02cbe1527320d34de3960226331c"
+	],
+	"chapter/tongmeng_5_3x1_2": [
+		"107397",
+		"848fd7d42ff0d717d5195ccfeb6a94aa"
+	],
+	"chapter/tongmeng_1_1x1_1": [
+		"62751",
+		"920487d6123eb67e9f89c23bce1d5cdc"
+	],
+	"chapter/tongmeng_5_sp": [
+		"221008",
+		"563a8daf839cb4aaa7471741c78dc820"
+	],
+	"chapter/tongmeng_5_2x2_2": [
+		"51130",
+		"d3273e09aaa2eec379a0988f818c25d7"
+	],
+	"chapter/tongmeng_4_3x1_2": [
+		"186840",
+		"4aa7a06e96f24e9d52a19c911f9d819a"
+	],
+	"chapter/tongmeng_1_1x1_3": [
+		"91611",
+		"e7d08e1ae778bf97d1acb6b205b6f2f5"
+	],
+	"chapter/tongmeng_1_1x1_4": [
+		"118930",
+		"9e90ffcdf3a8354d2770170067408866"
+	],
+	"chapter/tongmeng_4_2x2_1": [
+		"225786",
+		"fa532058b4a24553856189c8a66fc761"
+	],
+	"chapter/tongmeng_1_1x2_1": [
+		"139729",
+		"b210a31aca6331c5346b0a29a041cc56"
+	],
+	"chapter/tongmeng_5_2x2_1": [
+		"191223",
+		"66959e5e318f2fc971f8f470d9309ebf"
+	],
+	"chapter/tongmeng_1_1x1_2": [
+		"55845",
+		"2e3832e74bfdbcd10062ca2ae2d8a53a"
+	],
+	"chapter/tongmeng_3_1x2_2": [
+		"167324",
+		"c05f494f478bb8f9196965abb53085ba"
+	],
+	"chapter/tongmeng_4_3x1_1": [
+		"175433",
+		"53b45d248ba52a00e78476785951adb8"
+	],
+	"chapter/tongmeng_5_2x1_1": [
+		"26927",
+		"17642a1d9d82c4e3c011dc6a2f169c08"
+	],
+	"chapter/tongmeng_2_sp": [
+		"198560",
+		"eed3fc34e8924186aed789862298f047"
+	],
+	"chapter/pic/sea_tongmeng_2": [
+		"984043",
+		"50138b46b76e6dd3baeb7bd30cc9e0b4"
+	],
+	"chapter/pic/sea_tongmeng_4": [
+		"395035",
+		"e813b5e751c68108b5c094f2d2c0287d"
+	],
+	"chapter/pic/sea_tongmeng_1": [
+		"786015",
+		"881623e7a3b340ac68591052d899de82"
+	],
+	"chapter/pic/sea_tongmeng_3": [
+		"1115503",
+		"d3f6f3c858ca978b2648b6716b72c51d"
+	],
+	"char/boertawa": [
+		"224494",
+		"2609bf1a65f2cef0fc847b75a3bff54c"
+	],
+	"char/ailunsamuna_3": [
+		"340980",
+		"eba0b5e2acaa602f940627e7e2884b9d"
+	],
+	"char/boertawa_2": [
+		"223018",
+		"2f152c65188da380938106f41de569b6"
+	],
+	"char/huoli_2": [
+		"241982",
+		"b8dd8eca81cf28d51b76cc5d47d20796"
+	],
+	"char/huoli": [
+		"254567",
+		"a0dff9c7a687051847834963878de48e"
+	],
+	"char/junzhu_4": [
+		"233990",
+		"84af05e8c80e10c07f9da7f13085884e"
+	],
+	"char/unknownv_quzhu": [
+		"90810",
+		"1606811cba20f4dea578595799d23a60"
+	],
+	"char/abeikelongbi_4": [
+		"271049",
+		"dd080c1511fa745bd1e480e5e6224473"
+	],
+	"char/shuixingjinian_alter": [
+		"211174",
+		"ca57526b120814033355be82e14fb2cc"
+	],
+	"char/suweiaitongmeng_2": [
+		"420072",
+		"7ce4c241207554e5f4e645eb205306ec"
+	],
+	"char/xiongmeng_2": [
+		"193797",
+		"dbf8f53f6bc5a898ae29559d1eb533a6"
+	],
+	"chapter/pic/sea_tongmeng_5": [
+		"993081",
+		"9fb5880db816198d5b689cc41fdfc9ed"
+	],
+	"chargeicon/fudai84": [
+		"28562",
+		"acbb05f2b8e21bc8fc1182b268a64ea1"
+	],
+	"char/xiongmeng": [
+		"210353",
+		"a77d2873344e62e7cc0765172c75e9ac"
+	],
+	"chatframe/10010_self": [
+		"9529",
+		"bfca15aa87dfa2443fccf98632ea35b1"
+	],
+	"chargo/feiji_tegongjiu": [
+		"105969",
+		"0f232a1cba556a598246180806f7abb5"
+	],
+	"char/suweiaitongmeng": [
+		"638533",
+		"041ddcd05adb345b72445b7fa0222afb"
+	],
+	"chatframe/frame_10010": [
+		"17189",
+		"62e1bc242e122b6cb3472cdd6cbddc90"
+	],
+	"chatframe/10010_other": [
+		"9523",
+		"6d0f256145986b59b9cb46e3e51496c7"
+	],
+	"chargo/feiji_tegongtu": [
+		"103835",
+		"77c920748ba937054f0e401c8296fb94"
+	],
+	"chargo/feiji_tegongxiong": [
+		"111385",
+		"ca4ee6ffcb1c9f0bcde85773f13fb89b"
+	],
+	"chargo/tongmeng_feiji": [
+		"33968",
+		"262f63b09bfcb45cf33537e21c724dc5"
+	],
+	"commonbg/bg_pt_suweiaitongmeng": [
+		"107997",
+		"06ef76d9fec879b1e8772e5bf169f0b9"
+	],
+	"cue/bgm-story-cccp-soft.b": [
+		"1498944",
+		"a4fc3cd0ce80f8b24ef87266ffee4c24"
+	],
+	"cue/bgm-theme-merkuriameta.b": [
+		"1288256",
+		"1daa16b8d982e5d32d75750f2515a27b"
+	],
+	"cue/bgm-story-nonightcity.b": [
+		"944960",
+		"9fc65472f90d79f43390b1dceb03163d"
+	],
+	"cue/bgm-story-commander-up.b": [
+		"1383456",
+		"ebb7aa8b7f8f773b9b98f9787b504de4"
+	],
+	"cue/bgm-story-antarctica-serious.b": [
+		"893248",
+		"6e53d3864f7c67a2083e7947a3561079"
+	],
+	"effect/boertawa_suolian": [
+		"65169",
+		"27270f2d590c9971292fee4996ba7117"
+	],
+	"effect/jujiaolaser_warning": [
+		"30636",
+		"4cac0a9695ff187c88804045a5f77e55"
+	],
+	"emoji/33": [
+		"16227",
+		"7e9ad073eb3b29e7beac2ec4ab23efc8"
+	],
+	"emoji/34": [
+		"16271",
+		"b57cebfa9a9f0a1f634a43441700e0a2"
+	],
+	"equips/150260": [
+		"7938",
+		"b22796c96b6ed9c8a866be728fe89b95"
+	],
+	"equips/95921": [
+		"7104",
+		"ed22b413ee1831a94bdaa70e59ed8cd3"
+	],
+	"equips/95916": [
+		"8162",
+		"1970d658b3615b6127a5f0984aabfec9"
+	],
+	"cue/bgm-theme-sovietunion.b": [
+		"1450528",
+		"f3a859568fc6914e0a56367b92008648"
+	],
+	"equips/95932": [
+		"12086",
+		"8d7668631d2b8bcda68a78682435d2f7"
+	],
+	"equips/95912": [
+		"6968",
+		"6c7d6ebd9f307d055d10ba8111bee786"
+	],
+	"equips/95922": [
+		"8340",
+		"2c517025d6108d61ab8fcf5addf86f1f"
+	],
+	"equips/95911": [
+		"6700",
+		"dbfcf92cb84f54d03385d8bc268afa79"
+	],
+	"equips/95913": [
+		"8933",
+		"ab88209f640dee614986fa9187061fbf"
+	],
+	"equips/95923": [
+		"6936",
+		"9cd9003e071c1a3f635a72396067c14f"
+	],
+	"equips/95915": [
+		"8862",
+		"edf5dfa929209b5cfd08a51982ab8c34"
+	],
+	"equips/95933": [
+		"11611",
+		"e1a6378aeafaaccee526914ee0f612c0"
+	],
+	"equips/95914": [
+		"8272",
+		"92483906156223ae5bd55ea0264056ab"
+	],
+	"furnitrues/qp/diaosu1qp": [
+		"22806",
+		"5bae82f50c2766eda09c2f25ac79355a"
+	],
+	"furnitrues/qp/fangkuaiyizi1qp": [
+		"16886",
+		"ee319db7915a588898a7bdec629374a2"
+	],
+	"furnitrues/qp/fangkuaiyizi2qp": [
+		"13771",
+		"c0c32322de9ead7fec55b2ef98ff6b77"
+	],
+	"furnitrues/qp/diaosu2qp": [
+		"29060",
+		"f0d8e7955afe77b32290186d80300968"
+	],
+	"furnitrues/qp/canzhuoqp_using": [
+		"48080",
+		"76f7d63354be3bbcde79c5af8ee36843"
+	],
+	"furnitrues/qp/ditanqp": [
+		"33333",
+		"3a3dec5c16a31153af17e08c3398d923"
+	],
+	"furnitrues/qp/heitaoyizi1qp_using": [
+		"8669",
+		"c85bdb10eedac63c30362a301a74c786"
+	],
+	"equips/95931": [
+		"12080",
+		"59d5df1ce686de081c4c6195937aef98"
+	],
+	"furnitrues/qp/hongxinyizi1qp": [
+		"16252",
+		"507e9aadacaf2589394d2330abc52ed6"
+	],
+	"furnitrues/qp/heitaoyizi2qp": [
+		"12830",
+		"8c83204c95e35fb974b50b1787791541"
+	],
+	"furnitrues/qp/jingzi2qp": [
+		"19250",
+		"f01e941258617f202023afe5f3a1da59"
+	],
+	"furnitrues/qp/meihuayizi1qp_using": [
+		"8626",
+		"fcf9c509d5a096bfef894dab07a06878"
+	],
+	"cue/bgm-theme-antarctica.b": [
+		"1012288",
+		"453824d7b5c71fb00167375a8931c4ce"
+	],
+	"furnitrues/qp/qizi1qp": [
+		"11325",
+		"54d40ef4f79272fe5dd7a6877434e0d5"
+	],
+	"furnitrues/qp/jingzi1qp": [
+		"19089",
+		"ef0f5a7d7dfb270497723de5967d6b19"
+	],
+	"furnitrues/qp/guiziqp": [
+		"54292",
+		"af75379c1bb6cf982256f79c20cb8f25"
+	],
+	"furnitrues/qp/yugangqp_mask": [
+		"7529",
+		"6a9f0f0577a027df7c9b44281e21e927"
+	],
+	"furnitrues/qp/shafaqp": [
+		"43363",
+		"6beeccda3234602e77979ec910668f78"
+	],
+	"furnitrues/qp/qiangshi2qp": [
+		"34915",
+		"f2f757dd53c9097874ca0121d57288b5"
+	],
+	"furnitrues/qp/qiangbiqp1": [
+		"51053",
+		"caa432b665d0cceab12568d62a4f3c8b"
+	],
+	"furnitrues/qp/qiangbiqp2": [
+		"68822",
+		"2556a73e83f73c66b0130cea458e210e"
+	],
+	"furnitrues/qp/hongxinyizi2qp": [
+		"13409",
+		"57383e1c3c8dfbd6655fabb631920162"
+	],
+	"furnitrues/qp/qiangbiqp4": [
+		"103084",
+		"8ff3ec7803003d224b5671f30cd59a65"
+	],
+	"furnitrues/qp/qiangbiqp3": [
+		"84364",
+		"e799ee32266f0b4861718258f6a6c2da"
+	],
+	"furnitrues/qp/heitaoyizi1qp": [
+		"15717",
+		"a0761c4560314745ac655d9faf2316ec"
+	],
+	"furnitrues/qp/fangkuaiyizi1qp_using": [
+		"8663",
+		"975e142a6243d5f788173b9881c26548"
+	],
+	"furnitrues/qp/meihuayizi1qp": [
+		"15580",
+		"4a4af8fc9045aa4bbe5e7094ad3b3276"
+	],
+	"furnitrues/qp/meihuayizi2qp": [
+		"13154",
+		"b62f6e2e7dd24f843d237ffd87c161ac"
+	],
+	"furnitrues/qp/qizi2qp": [
+		"11158",
+		"76b946b26a3490a969d096c1d01fc6dd"
+	],
+	"furnitrues/qp/canzhuoqp": [
+		"58548",
+		"d18270e723c30311b6f06c585000f877"
+	],
+	"furnitrues/qp/hongxinyizi1qp_using": [
+		"8600",
+		"34ceccb5c92cafb6202fcc071cad105d"
+	],
+	"furnitureicon/canzhuoqpicon": [
+		"11067",
+		"2e78784627a351de7f0c9ece2816d032"
+	],
+	"furnitureicon/dianshiqpicon": [
+		"10572",
+		"5bd914e804722aa1743bb97fb50d9c94"
+	],
+	"furnitrues/qp/dibanqp": [
+		"189967",
+		"a38fee78cb59e4c5036cf5e2fda15274"
+	],
+	"furnitureicon/diaosu2qpicon": [
+		"11550",
+		"f6469d8737c428d79a28d6f2e480fa1f"
+	],
+	"furnitureicon/diaosu1qpicon": [
+		"10450",
+		"8d128b3f73343bdb12d42520ddef5ecd"
+	],
+	"furnitureicon/ditanqpicon": [
+		"8835",
+		"f5dd91f01383bc3446628bbad4b9791a"
+	],
+	"furnitureicon/fangkuaiyizi2qpicon": [
+		"9638",
+		"00878a32a1b4dd935d6bfd02ba312bee"
+	],
+	"furnitrues/qp/qiangshi1qp": [
+		"34410",
+		"58d38862b8fdb4a9b5de4fac02de2130"
+	],
+	"furnitureicon/heitaoyizi1qpicon": [
+		"9717",
+		"87cba9566baf1043dec65172a5a4ebac"
+	],
+	"furnitureicon/heitaoyizi2qpicon": [
+		"9270",
+		"bb1441e69aec90abd153ecb2a585aaed"
+	],
+	"furnitureicon/gangqinqpicon": [
+		"9906",
+		"d482e224b88f5c91bd2c11c935e4ade6"
+	],
+	"furnitureicon/fangkuaiyizi1qpicon": [
+		"9715",
+		"9cb0ef2ff7e671aa59e08de10604b8f7"
+	],
+	"furnitureicon/huahaifazhangicon": [
+		"6411",
+		"d268cb5b82d9f5fafcadb77278ce6a1e"
+	],
+	"furnitureicon/guiziqpicon": [
+		"10868",
+		"3de3a647eb97fef46a94103363f632b5"
+	],
+	"furnitureicon/hongxinyizi1qpicon": [
+		"10285",
+		"0a5e7fbfb8a72cc32641b86b080494ce"
+	],
+	"furnitureicon/dibanqpicon": [
+		"7543",
+		"2ea3491143f8ada17b69aee003200ca6"
+	],
+	"furnitureicon/hongxinyizi2qpicon": [
+		"10135",
+		"f406fee8b46cfe8e75ea24f0b77dcaa2"
+	],
+	"furnitureicon/jingzi2qpicon": [
+		"8698",
+		"882cd3a0980bce856000a9dd713cbf8e"
+	],
+	"furnitureicon/jingzi1qpicon": [
+		"8198",
+		"0587039fffd3d4380ac7a9c45fdace51"
+	],
+	"furnitureicon/meihuayizi2qpicon": [
+		"9538",
+		"89bfe837b6894eec6dade34c5ab82d4a"
+	],
+	"furnitureicon/qiangshi2qpicon": [
+		"11803",
+		"6ce315a37eefaa13d6d7169f956e449e"
+	],
+	"furnitureicon/qiangbiqpicon": [
+		"9478",
+		"6401d804b939c724ea1090fce0a4a0e0"
+	],
+	"furnitureicon/qiangshi1qpicon": [
+		"11982",
+		"7d7102e6762edf000fa2a2f8526a8a46"
+	],
+	"furnitureicon/shafaqpicon": [
+		"11733",
+		"6f179fde2894c69c521d72298bedca47"
+	],
+	"furnitureicon/meihuayizi1qpicon": [
+		"9692",
+		"cd52fa6f386c8b461d09f2ce8b964e36"
+	],
+	"furnitureicon/qizi2qpicon": [
+		"7282",
+		"8cba372abc9e96d303cfbeb313527235"
+	],
+	"furnitureicon/zhongqpicon": [
+		"9150",
+		"60d34da3677b1c443031043cea990ee2"
+	],
+	"herohrzicon/abeikelongbi_4": [
+		"15272",
+		"6c8a81ba37c842fec585971ba1b8f1bb"
+	],
+	"herohrzicon/ailunsamuna_3": [
+		"20654",
+		"ae6fee141326a527faf73e41ed03aae4"
+	],
+	"furnitureicon/qpthemeicon": [
+		"83622",
+		"926a90c791f4a69c0e1c2d24e3225be0"
+	],
+	"furnitureicon/qizi1qpicon": [
+		"8375",
+		"de65d53ad2a8608c77b2631be56d73b1"
+	],
+	"herohrzicon/boertawa_2": [
+		"15534",
+		"ff85803e3d61276e5d37e629024f9465"
+	],
+	"herohrzicon/boertawa": [
+		"13887",
+		"ce408b28b1fa11c3470c3d8dcd69866e"
+	],
+	"herohrzicon/huoli": [
+		"20331",
+		"d55407f99055ae10fec1d70818d7cb13"
+	],
+	"herohrzicon/huoli_2": [
+		"16027",
+		"269aef4584c51cd7fe37fb15861235fe"
+	],
+	"furnitureicon/yugangqpicon": [
+		"11827",
+		"d906f8e67c63390e3f6571016393ae24"
+	],
+	"herohrzicon/suweiaitongmengnew": [
+		"14167",
+		"cba5d4eae3d7a5adddf630ac57c4e9ff"
+	],
+	"herohrzicon/junzhu_4": [
+		"13109",
+		"32e67a2ff46d0acb137f1d687874ac58"
+	],
+	"herohrzicon/suweiaitongmeng_2": [
+		"20852",
+		"cad6a4ff625da99c83239c2a3471c21a"
+	],
+	"herohrzicon/xiongmeng": [
+		"17933",
+		"898496b6f080e09b9d3a2572b4aad565"
+	],
+	"herohrzicon/tongmeng_feiji": [
+		"9325",
+		"e1d66aad75ac901e3f7b8eea91fbcd3f"
+	],
+	"herohrzicon/shuixingjinian_alter": [
+		"19586",
+		"0e208e6d18ff1c8d432f4b23195af0c7"
+	],
+	"herohrzicon/xiongmeng_2": [
+		"16808",
+		"eca7bf4a81cd66b74c0bf888970ee38e"
+	],
+	"item/kedouzidan_red": [
+		"9364",
+		"165c4b16683a1eb331305f23e428745b"
+	],
+	"item/kedouzidan_purple": [
+		"9369",
+		"2163eddd5fd4c9c4c54f4ce3a905fef3"
+	],
+	"iconframe/10010": [
+		"36437",
+		"8c6da3a4657f559608cb6793af9fab47"
+	],
+	"item/mofazidan02_opacity": [
+		"27661",
+		"f03e84a0d1829da55395a00e184a7b5e"
+	],
+	"item/kedouzidan_white": [
+		"9184",
+		"25477095ae565b9b6e3ac58295816011"
+	],
+	"item/mofazidan03_opacity": [
+		"27661",
+		"eaa5ea29b47e07c009c665985d12782c"
+	],
+	"item/paodan_tegongjiu": [
+		"24283",
+		"511cf9f619e3310cb63e29f0c72183f7"
+	],
+	"item/paodan_tegongxiong": [
+		"24042",
+		"4b026add0b79c5ff3b6269d59b2c44ac"
+	],
+	"item/suweiai_bingkuai01": [
+		"133395",
+		"868b1ea48ed81b38737a1666f36eeccc"
+	],
+	"item/suweiai_bingkuai02": [
+		"67732",
+		"addb8d746534e017354afc912d059c73"
+	],
+	"item/yulei_duijiangji": [
+		"39504",
+		"3fc165af386990eb3fc92ad67fd25d84"
+	],
+	"item/paodan_tegongtu": [
+		"28773",
+		"3194477274c40faf1ff23c0f2b99da48"
+	],
+	"item/yulei_qiubang": [
+		"41122",
+		"404a1087ede1453707aba4643819dfcc"
+	],
+	"item/zhanji_line03": [
+		"32628",
+		"d2e2d259cf18fc26d2897751aa6cb686"
+	],
+	"item/zidan_aixinzidan": [
+		"61336",
+		"c2d427d4cd9aca61ce9f5ae3496c9e78"
+	],
+	"item/zhanji_line04": [
+		"32638",
+		"95c308e5b39ce4540d807d7af37df438"
+	],
+	"item/yulei_zhadan": [
+		"34671",
+		"c73bb1765278897d72aecde415583460"
+	],
+	"item/zidan_guaidaojiamian": [
+		"19388",
+		"751877040208fa75fe0fe0186583086c"
+	],
+	"item/zidan_guaidaoqizi": [
+		"39544",
+		"1efa849f74e9d9bbcfcb3427e9e337ee"
+	],
+	"item/zidan_guaidaoyanjin": [
+		"13363",
+		"e85ef6c82a3a5ae556b2f2bb41103c4d"
+	],
+	"levelmap/map_1790001": [
+		"242633",
+		"00c73d0e6b5ce67fe93be39348b65b3f"
+	],
+	"limitchallenge/boss/yuekegongjue": [
+		"773620",
+		"c652a1cc917f11866f743ae30616342e"
+	],
+	"levelmap/map_1790003": [
+		"255726",
+		"e3e54e26efc575d6c422f9d10bd3350e"
+	],
+	"limitchallenge/icon/yuekegongjue_1": [
+		"1245641",
+		"0d596d8e06aa98467bfdcdac26c9ebbe"
+	],
+	"levelmap/map_1790002": [
+		"277652",
+		"45e1c6e9ea66fe2490f74cd6d4e9c536"
+	],
+	"levelmap/map_1790005": [
+		"234525",
+		"99fc638852b17a4beb7fcadfc896e536"
+	],
+	"limitchallenge/icon/yuekegongjue_2": [
+		"1245642",
+		"34f922c130988fb1505c0b46b832c76f"
+	],
+	"limitchallenge/name/yuekegongjue_constellation": [
+		"1250285",
+		"11e569e7ff8af87fd7a18081c7f8ccf4"
+	],
+	"levelmap/map_1790004": [
+		"234678",
+		"0eaae18f8567895275b7cd6e692b3780"
+	],
+	"map/sea_tongmeng_5": [
+		"62458",
+		"b30766ab8e23f28ab10df0e66a24e6fc"
+	],
+	"map/sea_tongmeng_4": [
+		"59993",
+		"7195cb1196b7ba380a17d02a39f374a0"
+	],
+	"map/sea_tongmeng_3": [
+		"55785",
+		"cff9cc426f55421663e8a49e494aee08"
+	],
+	"map/sky_tongmeng_1": [
+		"446648",
+		"de9ce6a5a6be198eb249ccd21c861674"
+	],
+	"map/sky_tongmeng_4": [
+		"526739",
+		"1807e8ce4fd9e96710348863cc09bf11"
+	],
+	"map/sea_tongmeng_2": [
+		"65664",
+		"69c63f888209557c5389aa2000bc3e4e"
+	],
+	"map/sky_tongmeng_5": [
+		"341884",
+		"c387c5917b8eabbbbd39f54ea77ebdbb"
+	],
+	"map/tongmeng_3_yj01": [
+		"13032",
+		"27d35e2a95daba9456e8d02db41596d7"
+	],
+	"map/tongmeng_1_yj01": [
+		"12908",
+		"d41ba61825aef12145ff4d13c45c69c8"
+	],
+	"map/tongmeng_3_zj01": [
+		"62917",
+		"bde2f2276d3b408f05b891de122c29d1"
+	],
+	"map/sky_tongmeng_2": [
+		"458277",
+		"ee65a234b822e461629c10ecba1a7e13"
+	],
+	"map/tongmeng_3_jj02": [
+		"149422",
+		"47e26cbf4ae8a5bcb88e028c8f201b92"
+	],
+	"map/tongmeng_5_zj02": [
+		"63670",
+		"6be96f6cbc0810514d208208680c1008"
+	],
+	"map/tongmeng_1_jj01": [
+		"143413",
+		"9dcc62e6a99dca7a08d2d9bfbdde3a06"
+	],
+	"map/tongmeng_3_zj02": [
+		"65098",
+		"c92679e25f3fc55ce1dfd33698e28522"
+	],
+	"map/tongmeng_2_yj04": [
+		"20598",
+		"368cec4831ec0f2326a73f7760d245e7"
+	],
+	"map/tongmeng_4_zj01": [
+		"68405",
+		"01d7db20e5d71c9926ac90b64f6dff76"
+	],
+	"map/tongmeng_4_yj03": [
+		"15395",
+		"a3e4719bbbca089b975c06ecc82d3ee9"
+	],
+	"map/tongmeng_2_jj02": [
+		"111834",
+		"e2c4d47561065b4ba6d2409aeb58feec"
+	],
+	"map/sky_tongmeng_3": [
+		"707605",
+		"72101d3255edd53bfed2216866a764f7"
+	],
+	"map/tongmeng_4_yj02": [
+		"22956",
+		"2a7ae6b813d6245d0b35df9b3841014f"
+	],
+	"map/tongmeng_5_yj04": [
+		"21194",
+		"b967e86d209cddf2097c9dcf0fbfc3b6"
+	],
+	"map/tongmeng_2_zj02": [
+		"52192",
+		"5fd67cf46beb30e1cc50abd141a65be5"
+	],
+	"map/tongmeng_3_yj02": [
+		"23240",
+		"d767812f682b7d4cf43b75d2b6323e3a"
+	],
+	"map/tongmeng_1_zj01": [
+		"59069",
+		"c26f602c317eafa9d0ff71c2d299fcb3"
+	],
+	"map/snow_stg": [
+		"27549",
+		"6574e96bcf204d367c683c6b5fdd82e9"
+	],
+	"map/tongmeng_5_jj01": [
+		"127094",
+		"51a3bd72db56f1be6ce155cd61704e57"
+	],
+	"map/tongmeng_4_zj02": [
+		"72264",
+		"0ecd0de35ff4d3a3f20cba8a0dffeb0e"
+	],
+	"map/tongmeng_4_yj01": [
+		"14075",
+		"ece1cc818bf327977c5a548b30f50327"
+	],
+	"map/tongmeng_1_zj02": [
+		"63304",
+		"18001970188da6d72b3bbaddcecb5953"
+	],
+	"map/tongmeng_2_yj03": [
+		"29880",
+		"41cca2900d9e9f0d37b3e9947f55c13b"
+	],
+	"map/tongmeng_3_yj04": [
+		"18161",
+		"40652280edc8147f72d47e54d3762a23"
+	],
+	"map/tongmeng_1_yj02": [
+		"21654",
+		"189a0df36252c6089df6a6cfd4a42612"
+	],
+	"map/tongmeng_4_jj02": [
+		"168346",
+		"11d71790480caa7d27b555d8432b981f"
+	],
+	"map/tongmeng_1_jj02": [
+		"133929",
+		"76d9610baf8d1ed16fb75ca07b205d36"
+	],
+	"map/tongmeng_2_jj01": [
+		"93841",
+		"16eeb255b6ea1b190dbfc87f51e066e1"
+	],
+	"map/tongmeng_2_daoying": [
+		"291997",
+		"465a5cf5bebddf007d4c8703b26ead5a"
+	],
+	"map/tongmeng_5_jj02": [
+		"129902",
+		"58273c9635258668372975cc10c703f9"
+	],
+	"map/tongmeng_3_yj03": [
+		"15518",
+		"5cacfb5aabb78cfd8845104bca86eeb2"
+	],
+	"map/tongmeng_5_daoying": [
+		"297272",
+		"6b7ae84323846decbb1e5c267d9560fa"
+	],
+	"map/tongmeng_1_wuqi": [
+		"356024",
+		"1531c4e153e2c52164803201f8bd6e82"
+	],
+	"map/sea_tongmeng_1": [
+		"63750",
+		"372d2e414036c148fa294217e11f6dca"
+	],
+	"map/tongmeng_4_yj04": [
+		"19574",
+		"f14daf2d9e35b83c33a7b587a05f5db1"
+	],
+	"map/tongmeng_4_daoying": [
+		"286804",
+		"789d8695a62d476133245525a8f2b984"
+	],
+	"map/tongmeng_1_daoying": [
+		"310077",
+		"9fed3352d1d2ad97f4005f94b21168e0"
+	],
+	"map/tongmeng_5_yj01": [
+		"39803",
+		"b3b68bcb25dc96e2edf2800cfa643b37"
+	],
+	"map/tongmeng_2_yj01": [
+		"37276",
+		"5e181bf3bbcb8361a8ef9155e9226ca4"
+	],
+	"map/tongmeng_1_yj04": [
+		"17453",
+		"1488e9c341ca7f17d822ab495dfcd192"
+	],
+	"map/tongmeng_4_wuqi": [
+		"497598",
+		"8afa2767f84445c2f846c9908941f0e8"
+	],
+	"map/tongmeng_3_wuqi": [
+		"432130",
+		"7b6519c03fbc8d7f3c22d0420503b710"
+	],
+	"map/tongmeng_2_yj02": [
+		"25738",
+		"b72acfe81de0bd919026e0d952888f59"
+	],
+	"map/tongmeng_2_zj01": [
+		"22221",
+		"992b8cf6759424e21dc2aff1b9bc2b27"
+	],
+	"map/tongmeng_1_yj03": [
+		"14638",
+		"5315ce8c12144d4c9ed204e831b7ad9a"
+	],
+	"map/tongmeng_2_wuqi": [
+		"440333",
+		"a48dc9298f9cd4281f2d06e0f4ae83b7"
+	],
+	"map/tongmeng_3_jj01": [
+		"164191",
+		"87134c69aeb79991d5e6528d38724fd6"
+	],
+	"map/tongmeng_5_zj01": [
+		"75930",
+		"d865343a5e280ed8359bc441b084c38e"
+	],
+	"map/tongmeng_4_jj01": [
+		"181535",
+		"f4e0bf1ac19a7d450e4c9e1b5c142500"
+	],
+	"map/tongmeng_5_yj02": [
+		"27464",
+		"bf890e6cc8184d563e4fb5f44b49693f"
+	],
+	"map/tongmeng_5_yj03": [
+		"32151",
+		"548929a60ae063376be1c92c92f8273a"
+	],
+	"memoryicon/memory_anjinbuyecheng": [
+		"33164",
+		"02391abe6ac46e91867225c992e7192d"
+	],
+	"memoryicon/memory_xuejingmizong2": [
+		"29353",
+		"6fc5b02adfa2538b6775a09f627a5376"
+	],
+	"memoryicon/memory_xuejingmizong3": [
+		"32656",
+		"81edec0ef15aab22dc3abbf44056d44a"
+	],
+	"map/tongmeng_5_wuqi": [
+		"413887",
+		"0c70f078391aae460a935a57769d36c7"
+	],
+	"memoryicon/memory_xuejingmizong1": [
+		"29138",
+		"509ff00372d1055f43aa404bda340d69"
+	],
+	"metaship/banner_970207": [
+		"111517",
+		"6ccac3ac5ebec296d118af9ddf20b2b6"
+	],
+	"metaship/name_970207": [
+		"12021",
+		"45841257e1f5650fec0b5e0bb384009c"
+	],
+	"metaship/toast_970207": [
+		"13057",
+		"93302dd6b629756e861b8a530d9d12d8"
+	],
+	"paintingface/abeikelongbi_4": [
+		"613187",
+		"c40b289018cc62cbe3e93866e1c26648"
+	],
+	"map/tongmeng_3_daoying": [
+		"954521",
+		"a256fc0e8c5287dbbe4dc06065e09aaf"
+	],
+	"metaship/970207_active": [
+		"3980416",
+		"76114e128803646079b328a02e9f5d95"
+	],
+	"paintingface/boertawa": [
+		"488463",
+		"4f515adaf0d80dceb4cef6ac5fa301da"
+	],
+	"paintingface/ailunsamuna_3": [
+		"1912884",
+		"088a588dadb0f093c6b56c505fbb0f3e"
+	],
+	"paintingface/boertawa_2": [
+		"637265",
+		"d693ddba66dc404150a5690939c52335"
+	],
+	"paintingface/huoli_2": [
+		"540326",
+		"704520e54f60b6efb1a814398a8f396f"
+	],
+	"paintingface/junzhu_4": [
+		"553410",
+		"8b68327d51eaad59da80b831a52e1fb5"
+	],
+	"paintingface/huoli": [
+		"1090125",
+		"2d29e2bd700162ca4f7f6fc27720cae7"
+	],
+	"paintingface/suweiaitongmeng_2": [
+		"718646",
+		"28a838fa58c04c90e0f938c94597c367"
+	],
+	"paintingface/suweiaitongmengnew": [
+		"329800",
+		"d80bd2d2c152350a02327b9874c362a2"
+	],
+	"paintingface/xiongmeng": [
+		"709906",
+		"9eff924ce89f4a52ee69797bc438a369"
+	],
+	"paintingface/shuixingjinian_alter": [
+		"353505",
+		"d51610e42079b2bfa6752ae97cae873e"
+	],
+	"metaship/970207_disactive": [
+		"3185335",
+		"ca279489bffd1a6b67f2d8e7bef0138a"
+	],
+	"originsource/cpk/unlock_705020.cpk": [
+		"4143232",
+		"d88fdb7c4e43ed6b664c66f32c496e92"
+	],
+	"props/21030": [
+		"9283",
+		"2dbf95944ad0059dba7f78ac6aa06ec8"
+	],
+	"props/appearanceboxzuiedushizixuan": [
+		"11312",
+		"473f033bcec697db6f5d35a161e9310e"
+	],
+	"props/appearanceboxzuierdushizixuan": [
+		"11311",
+		"392bc8e944e4e6029885abc21ad86f70"
+	],
+	"props/appearanceboxzuierdushi": [
+		"11534",
+		"15efa9b11a684023a15711d5947730aa"
+	],
+	"props/appearanceboxzuiedushi": [
+		"11563",
+		"31671c4c69e78abae0cb48bb41865ab7"
+	],
+	"props/fudai84": [
+		"11761",
+		"c5374f2e4c2197d8c8516c123671bdc6"
+	],
+	"props/icon_emoji": [
+		"10249",
+		"bb8a5cb189e4c51afa4863666f134299"
+	],
+	"props/story_tongtianzhixia": [
+		"13483",
+		"8b36225457de4cfb07c930a672704ed8"
+	],
+	"props/tongmeng_pt": [
+		"12651",
+		"997985286efcaa0ffca957b04603d943"
+	],
+	"props/story_chongfengqiang": [
+		"13542",
+		"4f78ba3d0c8a4c8cfda52324f0202002"
+	],
+	"paintingface/kelei": [
+		"740365",
+		"4e6be9cc4d9fd6e2c01a70311895ade1"
+	],
+	"qicon/ailunsamuna_3": [
+		"10788",
+		"a7ae22cb764b7c416c43f100527b3bb7"
+	],
+	"qicon/abeikelongbi_4": [
+		"10563",
+		"ba41af2bfb887cfb7186a9033fb39eb2"
+	],
+	"qicon/boertawa": [
+		"10095",
+		"4c028be79fda478bc345bc1a230131df"
+	],
+	"qicon/huoli": [
+		"10121",
+		"27098893a79ec7a10c5a75bf4a960065"
+	],
+	"qicon/boertawa_2": [
+		"10084",
+		"57ae2ad63b96d8baba565527bf24e643"
+	],
+	"qicon/junzhu_4": [
+		"10173",
+		"45afa7925949cb81ca4a8b9b0909281e"
+	],
+	"qicon/huoli_2": [
+		"10600",
+		"daefe61780da5608cc779386270b856a"
+	],
+	"qicon/shuixingjinian_alter": [
+		"10566",
+		"a85256d2f196c828ba2dc5b24fe940b3"
+	],
+	"paintingface/xiongmeng_2": [
+		"1226540",
+		"66db63fae84c52d1fb68bf4f8daab67c"
+	],
+	"qicon/suweiaitongmeng_2": [
+		"9887",
+		"481a05667f02208d656ebac3c503fc80"
+	],
+	"qicon/suweiaitongmengnew": [
+		"10460",
+		"1d586b53685c29248189194b540cf64d"
+	],
+	"qicon/xiongmeng": [
+		"10719",
+		"fde6e5f7a29f47618ef641b50bcb37e2"
+	],
+	"sfurniture/dianshiqp": [
+		"78076",
+		"8226b612896f5c1f790e3f5e75de3bfa"
+	],
+	"sfurniture/huahaifazhang": [
+		"69499",
+		"058f8b44f892b7cf05d428cf964b8308"
+	],
+	"qicon/xiongmeng_2": [
+		"11085",
+		"c6f56cee6494a0857e789dd84817c408"
+	],
+	"sfurniture/gangqinqp": [
+		"101098",
+		"01c7d3aa8a17bf1dba10dbe1c01ba22a"
+	],
+	"shipmodels/abeikelongbi_4": [
+		"49993",
+		"521272bf99639a8dbeda484476aaa0f0"
+	],
+	"shipmodels/ailunsamuna_3": [
+		"53753",
+		"f2d1a6798a64bbb4fefe5754e31a26af"
+	],
+	"sfurniture/yugangqpb": [
+		"92205",
+		"63b79dd5d8141bd4be9e65f836ccc233"
+	],
+	"sfurniture/yugangqpt": [
+		"50006",
+		"b6e77a2b52e765892090d70af3014d3d"
+	],
+	"sfurniture/zhongqp": [
+		"53595",
+		"ccb784719eab3daeef59d804dcce2b72"
+	],
+	"shipmodels/boertawa": [
+		"76357",
+		"b799c457e74b42dfa75452f1904e7af8"
+	],
+	"shipmodels/boertawa_2": [
+		"73526",
+		"836a97f3fdddfd777e99fa443f088286"
+	],
+	"shipmodels/huoli_2": [
+		"50549",
+		"ec94153aa78b91d3b2a783093c716d62"
+	],
+	"shipmodels/huoli": [
+		"52380",
+		"98a9c63f95c7180982b72ebdba1e1ca1"
+	],
+	"shipmodels/junzhu_4": [
+		"48118",
+		"e52de998698689b2d6708b61d5ae5362"
+	],
+	"shipmodels/shuixingjinian_alter": [
+		"57110",
+		"d6ed8b9012f4a89e17f32b1e119f9c7b"
+	],
+	"shipmodels/suweiaitongmengnew": [
+		"80960",
+		"85598d395c766bb6b620f4281d47bc3e"
+	],
+	"shipmodels/suweiaitongmeng_2": [
+		"70124",
+		"d895245cbdbb2e86359b9dc28abc5486"
+	],
+	"shipmodels/xiongmeng": [
+		"52049",
+		"a43d26e2e97195e1148b5089249be0ad"
+	],
+	"shipmodels/xiongmeng_2": [
+		"54427",
+		"7d09136fb6778cd50c1892abfa84279e"
+	],
+	"shipyardicon/abeikelongbi_4": [
+		"30835",
+		"fa07f01b117bc5cf0208d088f3c28b1d"
+	],
+	"shipyardicon/ailunsamuna_3": [
+		"32519",
+		"5d7e3eb36ded6866a50bfca8e8a81ae5"
+	],
+	"shipyardicon/boertawa": [
+		"27729",
+		"776b20dd4a0b33be124c604ac14ecfe9"
+	],
+	"shipyardicon/boertawa_2": [
+		"29622",
+		"a10687a918f0cfab0bdddb24267a471f"
+	],
+	"shipyardicon/huoli": [
+		"28613",
+		"fa732bc61441c7c3fb5dffaca5d4bc0b"
+	],
+	"shipyardicon/huoli_2": [
+		"29797",
+		"3555c7b654cc1832a107fb1445841940"
+	],
+	"shipyardicon/junzhu_4": [
+		"26979",
+		"6c8ece8a0913901c9a60e3b89bdc3483"
+	],
+	"shipyardicon/shuixingjinian_alter": [
+		"29850",
+		"ffca87b16226796de5727544527c1de2"
+	],
+	"shipyardicon/suweiaitongmengnew": [
+		"29750",
+		"9e6cf7affebb6fd4dc81a67bc51102b0"
+	],
+	"shipyardicon/suweiaitongmeng_2": [
+		"32602",
+		"b0fcc002f0c1b1fd7690d03d4921683d"
+	],
+	"shipyardicon/xiongmeng": [
+		"31115",
+		"5437a19624590a3f365ab3b1bfc28485"
+	],
+	"shipyardicon/xiongmeng_2": [
+		"32599",
+		"41506da498f7aca6b356469b3995fd98"
+	],
+	"squareicon/ailunsamuna_3": [
+		"12447",
+		"c1f0a18e0d5f4ef28627538f6c6b8360"
+	],
+	"squareicon/boertawa": [
+		"11449",
+		"559656a599ad41e251e94311b04984d9"
+	],
+	"squareicon/canglong_alter_hei": [
+		"10965",
+		"12528b9c0b3976d8b452fccb858e2b99"
+	],
+	"spinepainting/suweiaitongmengnew": [
+		"46105",
+		"8cea3bc071344f62d9d4f882348580ee"
+	],
+	"squareicon/abeikelongbi_4": [
+		"11819",
+		"afcab39874a5f4513d43574001215bc7"
+	],
+	"squareicon/boertawa_2": [
+		"11424",
+		"8f537fb60794760c8a4fcde09d8acfaa"
+	],
+	"shoppainting/shuixingjinian_alter_pt": [
+		"1993685",
+		"00bab4b2ea5b20f7d4a4514e081cbeba"
+	],
+	"squareicon/huoli_2": [
+		"11514",
+		"95064ef2ba3fc869e4cd316d787c05c6"
+	],
+	"squareicon/huoli": [
+		"11159",
+		"83eedbe097acd7509fc0f021f19a597e"
+	],
+	"squareicon/junzhu_4": [
+		"11655",
+		"e546601756dd9803fcd5b688fb40a0ee"
+	],
+	"squareicon/kelei": [
+		"11112",
+		"46f38b2a87bb2517a1d1de50aaabe4aa"
+	],
+	"squareicon/shuixingjinian_alter": [
+		"11461",
+		"72bef31c57dd35c2474cd897b9f20f93"
+	],
+	"squareicon/suweiaitongmeng_2": [
+		"12085",
+		"98ebb17322008a9bf3a35194aa926a85"
+	],
+	"squareicon/suweiaitongmengnew": [
+		"11660",
+		"229da808bf5f87a95210e439eab0c851"
+	],
+	"squareicon/xiongmeng_2": [
+		"12089",
+		"ded609448998bc72cecf0076de491267"
+	],
+	"story/storymap_nanjidalu": [
+		"4932",
+		"b279da7eb4b020da10f95799cd707e9b"
+	],
+	"storyicon/gangute": [
+		"117378",
+		"53247cc4c91598f6b19f9275310ca800"
+	],
+	"storyicon/huoli": [
+		"303195",
+		"5b0e664fc1457ebb8d19522be41cbc61"
+	],
+	"storyicon/suweiaitongmengnew": [
+		"109291",
+		"37d6f85e09d3b61ba57070297088eedc"
+	],
+	"storyicon/shuixingjinian_alter": [
+		"139323",
+		"2bd16e531a71cdacac132fee0330136d"
+	],
+	"storyicon/mengfeisi": [
+		"371213",
+		"19266183d4cd166bdfb9dd037d7e6b97"
+	],
+	"storyicon/saiwasituoboer": [
+		"391845",
+		"e36c936294a8d2531a3037686f5c7275"
+	],
+	"storyicon/saiwasituoboer_hx": [
+		"390936",
+		"f325c4c04219866c7d0e1a677cc8e12f"
+	],
+	"storyicon/shuixingjinian": [
+		"488785",
+		"417047c466eb0968898d2604086c5d21"
+	],
+	"storyicon/xiongmeng": [
+		"253414",
+		"ae44317f897d8995ad4bedb9aec531e3"
+	],
+	"storyicon/kelaimengsuo": [
+		"333652",
+		"db7ff10ba276e49185cccef21bc2bb74"
+	],
+	"strategyicon/200774": [
+		"11932",
+		"3615c7e34b55be805669fd1566215b72"
+	],
+	"strategyicon/200780": [
+		"11733",
+		"8b906a8b8e91fd7ff1f0c0c61053a3a3"
+	],
+	"strategyicon/200770": [
+		"11895",
+		"6e217946cf64d4d8261383486575954b"
+	],
+	"storyicon/talin": [
+		"450024",
+		"b3608e190c10f31a944ad8322de98f10"
+	],
+	"ui/anjinbuyecheng": [
+		"122580",
+		"8392393298b3fdaabfe37c6f70ca6c57"
+	],
+	"squareicon/xiongmeng": [
+		"11900",
+		"332b22e7bfe78ea68144ad0b4dbc4b14"
+	],
+	"ui/emojiinfoui_atlas": [
+		"11141",
+		"0538e1fe1ceabbad64667ce7db673ce0"
+	],
+	"ui/emojiinfoui": [
+		"6166",
+		"5126892e290894ea37d299a6346ab738"
+	],
+	"ui/houzhai_huaban": [
+		"50016",
+		"e6147aa0b4be6d98f34cafe2b4512ff2"
+	],
+	"storymap/storymap_nanjidalu": [
+		"998542",
+		"fa9572b837f443da153af776a12e8584"
+	],
+	"ui/maoxiv4mainpage": [
+		"5248",
+		"d39e1a0b24c1b29b5e42695b7f0273a7"
+	],
+	"ui/maoxiv4ptpage": [
+		"9565",
+		"ed002037b4ebcedccb05f6bdb0b58d9a"
+	],
+	"ui/lihui_suweiaitongmengnew": [
+		"29106",
+		"f0e4ee206d27f263c8f6b5f646f61a9b"
+	],
+	"ui/maoxiv4ptpage_atlas": [
+		"401558",
+		"d68b087dbc24f8fac07ab0f4685a57d9"
+	],
+	"ui/juqing_mengjing": [
+		"35695",
+		"7b43a5129befa99ea0e23df25ce489be"
+	],
+	"ui/map_1790001": [
+		"187027",
+		"ec6e3dd2f68b006b5eab538349e1f085"
+	],
+	"ui/map_1790004": [
+		"192436",
+		"fab2ae69d89e5d33aae5e5c3e4a40a7d"
+	],
+	"ui/maoxiv4mainpage_atlas": [
+		"636693",
+		"cc671adbc1b48242ab114b2ad3f15be9"
+	],
+	"ui/map_1790002": [
+		"56998",
+		"c1861b3471b38ae7fb05d4ca90f88b02"
+	],
+	"ui/map_1790003": [
+		"318901",
+		"85b4d1f7f5cd83a882ee824ec1dada60"
+	],
+	"ui/map_1790005": [
+		"67806",
+		"64b2dc9ca757f99cb172b75cbfd6f47b"
+	],
+	"ui/sleeplesscitypage": [
+		"9956",
+		"4739e23f3214136f562078132b1169c9"
+	],
+	"ui/newskinshoppurchaseui": [
+		"11890",
+		"524bc16f3090ecd092ff475c0f0690a3"
+	],
+	"ui/tongmeng_caidan_1": [
+		"86862",
+		"ff66209efe77611357dfe4e3ce68dc43"
+	],
+	"ui/skinunlockanim/star_level_unlock_anim_705020": [
+		"12477",
+		"e3bed17793c152c5047d89883899c4c5"
+	],
+	"ui/skinunlockanim/star_level_unlock_anim_9702070": [
+		"12498",
+		"dfcea5cd0f6a5dd3dcf47cf5b33dc5a3"
+	],
+	"ui/activityuipage/sleeplesscitypage_atlas": [
+		"484856",
+		"2d04f4b52878f08f33bf276352c8ba07"
+	],
+	"spinepainting/suweiaitongmengnew_res": [
+		"16882485",
+		"c0b4af6c55820666721db39b862790bc"
+	],
+	"qicon/suweiaitongmeng": [
+		"10434",
+		"ceaabc25727f286b83520d6cc64af001"
+	],
+	"paintingface/silverfox": [
+		"709572",
+		"f7e211589c7d0cd7a1909d7068e25a08"
+	],
+	"skillicon/17590": [
+		"12543",
+		"7bc10f0a3945cd74cdb7a13c4406c475"
+	],
+	"skillicon/17610": [
+		"13163",
+		"a3703bb023590e0321e23da889003219"
+	],
+	"skillicon/17670": [
+		"12658",
+		"e204222421c970cd6a14cdf18a6bd85b"
+	],
+	"skillicon/17600": [
+		"13048",
+		"54c64ccb497e66f6914d2f0e345e391e"
+	],
+	"skillicon/17620": [
+		"12937",
+		"9fd11890a0c3caed86e6e4796c710aa2"
+	],
+	"skillicon/17660": [
+		"13252",
+		"80cc17faf33b3aeb3251697abb73a06c"
+	],
+	"skillicon/30200": [
+		"12330",
+		"a87bb5a38982ee11b5f5499faf8dd125"
+	],
+	"skillicon/17650": [
+		"12678",
+		"92a92ca8f151158085a0e2f7384bf31c"
+	],
+	"skillicon/17630": [
+		"12548",
+		"acbab6cee09c293dec5ae45b47d7e871"
+	],
+	"skillicon/17680": [
+		"12997",
+		"d48c39042baf088ae17b148cf1458606"
+	],
+	"skillicon/801100": [
+		"13259",
+		"1fb1f1687b8930a2f4d0195667549f05"
+	],
+	"skillicon/801120": [
+		"12438",
+		"b1288c4babf486967cff7bd48ae49f88"
+	],
+	"skillicon/801110": [
+		"12670",
+		"2552dbe5ee6becef237f45582854de72"
+	],
+	"skillicon/801090": [
+		"12637",
+		"ecc13de04893c65261d8dbe4f2cc6b67"
+	],
+	"squareicon/silverfox": [
+		"11367",
+		"698a42c78b289dabf991fc33b197223f"
+	],
+	"ui/xuejingmizong": [
+		"307006",
+		"4a94a27567875d5d7558bad206f0a14d"
 	]
 }

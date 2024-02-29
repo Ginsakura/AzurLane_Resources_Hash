@@ -5604,8 +5604,8 @@
 		"891c84d5196f6530628ab3647d9653f1"
 	],
 	"painting/feilong": [
-		"6575",
-		"6639aa78ece72829c615f2dceb5e0ad5"
+		"132989",
+		"84fb37f63b26e0b338a25ae46bf2b703"
 	],
 	"painting/feilong_2": [
 		"6616",
@@ -24089,7 +24089,7 @@
 	],
 	"painting/silverfox_shadow": [
 		"6596",
-		"a8bf7b3d3c3a4f949b93a9c7c0cdb0b0"
+		"50154ae3152d07139813e169d7145c50"
 	],
 	"painting/luyisiweier_2_tex": [
 		"5973488",
@@ -24116,8 +24116,8 @@
 		"47a346c42e3ae40ccafc495488dc1d0f"
 	],
 	"painting/silverfox_shadow_tex": [
-		"1944914",
-		"8741add3c1b4ef694d58e2b8b374ad3e"
+		"442671",
+		"9852a8c556f2e33a461794004667b00b"
 	],
 	"painting/unknown1_xinshou": [
 		"4981",
@@ -25046,5 +25046,249 @@
 	"painting/pinghai_8_tex": [
 		"3356282",
 		"1191fae3c84a4bc81b2f7bf6c8cf8ba5"
+	],
+	"painting/abeikelongbi_4": [
+		"6790",
+		"e0fbeda4220fe9f8c8d9a2c28fcb8d84"
+	],
+	"painting/abeikelongbi_4_n": [
+		"6812",
+		"6a9f2f7c87a4444157ba7c7c9fa2dfb4"
+	],
+	"painting/ailunsamuna_3": [
+		"7096",
+		"ce669cc8bc7d80dc76322fe2dc3faa77"
+	],
+	"painting/ailunsamuna_3_n": [
+		"7105",
+		"1e5748f063ba72662dcb7277ac66ad06"
+	],
+	"painting/ailunsamuna_3_n_tex": [
+		"681555",
+		"2fc1e7559d5949ea6a9f83cd95568bd8"
+	],
+	"painting/boertawa_2": [
+		"7094",
+		"3db18122a4ed0b27b44f069c2263467a"
+	],
+	"painting/boertawa": [
+		"7505",
+		"a4883af2df1bee55926cc7e28df69f21"
+	],
+	"painting/abeikelongbi_4_tex": [
+		"1071839",
+		"00eb238deb761b4fb1de3ffc2fe3821f"
+	],
+	"painting/boertawa_2_tex": [
+		"1103888",
+		"14fcbcaedcd09565fbe7ae87b47ec157"
+	],
+	"painting/boertawa_bj1_tex": [
+		"422608",
+		"aac5aa621728a4f4c0982b58131d8a60"
+	],
+	"painting/boertawa_2_n": [
+		"7085",
+		"a51ba36abb1ed25abad89de5398b11f4"
+	],
+	"painting/ailunsamuna_3_tex": [
+		"1067409",
+		"1592ecf1c3a98b7426f8efeee0840bd1"
+	],
+	"painting/boertawa_2_rw_tex": [
+		"980864",
+		"57cbc1326c4671cf2485ae2d154f83ad"
+	],
+	"painting/boertawa_n": [
+		"7511",
+		"e96ebd52100c23a99d3368ff3812e6e4"
+	],
+	"painting/boertawa_bj2_tex": [
+		"161560",
+		"38aa064d855ff46701235c043af856a9"
+	],
+	"painting/boertawa_2_n_tex": [
+		"2146576",
+		"bf1575d40bf06119cb60441daf70f166"
+	],
+	"painting/abeikelongbi_4_n_tex": [
+		"3126520",
+		"8475496f6ef6d0f3686b7ca3d25e8be2"
+	],
+	"painting/ailunsamuna_3_rw_tex": [
+		"2716963",
+		"8334a1b68a743e248e90f5f36a00ecc7"
+	],
+	"painting/huoli": [
+		"6807",
+		"4294b9ef7c0b605aae92037405a214cc"
+	],
+	"painting/boertawa_n_tex": [
+		"748988",
+		"aa4ea929f9f946bdcd19079f3e2bb673"
+	],
+	"painting/huoli_2_n_tex": [
+		"780385",
+		"b70da1146a4220bd2d25965484851548"
+	],
+	"painting/huoli_2": [
+		"6780",
+		"b4f4c078ab11acbea6c93689c04c367d"
+	],
+	"painting/huoli_n": [
+		"6823",
+		"cfcac799de7d94764709d3b785b2101e"
+	],
+	"painting/huoli_2_n": [
+		"6824",
+		"7fa62b0c1b2d901e590478275ac8cc68"
+	],
+	"painting/junzhu_4_n": [
+		"7138",
+		"16fb72b138e84289c2b3164b7ae9d3ba"
+	],
+	"painting/huoli_2_tex": [
+		"985370",
+		"b952330189ad6577b2bacb09eac2511e"
+	],
+	"painting/junzhu_4_rw_tex": [
+		"693278",
+		"ebbd2db67beb8f70487d21365109fdb6"
+	],
+	"painting/boertawa_rw_tex": [
+		"2957215",
+		"dcf51890f48bb3c0cb90ce1eaa3159dd"
+	],
+	"painting/kelei": [
+		"6587",
+		"9f7802664f756639e44f78f99e5492a1"
+	],
+	"painting/junzhu_4": [
+		"7100",
+		"c064595b3941351f8440b8b7a4aeb606"
+	],
+	"painting/junzhu_4_tex": [
+		"996608",
+		"72bfa0500588c50f79ac72f01f705d07"
+	],
+	"painting/boertawa_tex": [
+		"4617207",
+		"d358d65e071235b50ee1ad5e8fb9cd5e"
+	],
+	"painting/huoli_n_tex": [
+		"2392161",
+		"0b24449490833ed5502e7122dcd5ad06"
+	],
+	"painting/junzhu_4_n_tex": [
+		"2911297",
+		"8be3e190b11cc458be31be414db8b4d1"
+	],
+	"painting/shuixingjinian_alter_tex": [
+		"1162209",
+		"5a5c1156492985fa01d5e55866aeeca6"
+	],
+	"painting/suweiaitongmeng_2": [
+		"7125",
+		"8901ea138b81254cc2eacc8122fb0d76"
+	],
+	"painting/suweiaitongmengnew_n": [
+		"7123",
+		"2dfb6fe747211e097eb66fdabdb719e2"
+	],
+	"painting/shuixingjinian_alter": [
+		"977518",
+		"a631e19970ca170514a5bab77404f910"
+	],
+	"painting/suweiaitongmengnew_tex": [
+		"1029376",
+		"be99e9dc962cc4e488bb3a937ef2e1cf"
+	],
+	"painting/kelei_tex": [
+		"1874108",
+		"967945399a7a69e32aa7ed396eff4495"
+	],
+	"painting/suweiaitongmengnew_n_tex": [
+		"801078",
+		"5985d2e26b2ac1b0efaca33b7ff06efc"
+	],
+	"painting/suweiaitongmengnew": [
+		"7101",
+		"5968f1b8c79c273646e3bf4d51a8fca5"
+	],
+	"painting/suweiaitongmeng_2_n": [
+		"7106",
+		"5d3847f8ac242338633fff8a459d3829"
+	],
+	"painting/suweiaitongmeng_2_rw_tex": [
+		"917166",
+		"312709a0aa73bbdfb5e24c5ff4a0f48e"
+	],
+	"painting/suweiaitongmeng_2_tex": [
+		"1414492",
+		"e824d841faa842bcab34218bc9ce5bda"
+	],
+	"painting/suweiaitongmeng_2_n_tex": [
+		"149990",
+		"7f626d508596de8ced191676a941c995"
+	],
+	"painting/shuixingjinian_alter_bj1_tex": [
+		"849383",
+		"d2dbbecb6d18b2d8a2d8a0fea82d6af4"
+	],
+	"painting/huoli_tex": [
+		"4866640",
+		"7b90cacc0f1a77421a73e343815a0948"
+	],
+	"painting/shuixingjinian_alter_n_tex": [
+		"1363961",
+		"df0dfe8a48642bff0d068786d7e9aa3f"
+	],
+	"painting/xiongmeng": [
+		"6803",
+		"0abb9576d41d973d4e31b6aa3de87033"
+	],
+	"painting/xiongmeng_2_n": [
+		"6818",
+		"058e2936b5aef8d35b5e0ac53230bfd8"
+	],
+	"painting/xiongmeng_n": [
+		"6812",
+		"fff1baa0b665d35a9317bdb6657c61c3"
+	],
+	"painting/xiongmeng_2": [
+		"6823",
+		"e9c03d6a33cff9b8c411196c7e2183c7"
+	],
+	"painting/suweiaitongmengnew_rw_tex": [
+		"753862",
+		"a07f29f17d09d77f6d2fa4c56ba19f92"
+	],
+	"painting/xiongmeng_2_n_tex": [
+		"603562",
+		"30970eee7fbe956969e90e1cfcbdf8f6"
+	],
+	"painting/xiongmeng_2_tex": [
+		"1541659",
+		"b7a0f415674e8919149520a3cab0881e"
+	],
+	"painting/xiongmeng_tex": [
+		"749375",
+		"ca19cf57387993e7881b164201d4ed54"
+	],
+	"painting/shuixingjinian_alter_rw_tex": [
+		"2316620",
+		"a18ba8b9d8cca49e9cb927736bf620ec"
+	],
+	"painting/xiongmeng_n_tex": [
+		"1349923",
+		"cc6bfd7ba6a99aa8327258cc6c3b855e"
+	],
+	"painting/silverfox": [
+		"6679",
+		"44f54ced1942bffacef3094e2e588b7e"
+	],
+	"painting/silverfox_tex": [
+		"456157",
+		"59feb53b0f7d0e8bd7746c0bf1bb41ee"
 	]
 }
