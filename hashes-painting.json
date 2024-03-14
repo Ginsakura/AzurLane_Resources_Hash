@@ -16233,7 +16233,7 @@
 	],
 	"painting/shengli": [
 		"6603",
-		"f21bc10d1f51817b52ebcfcd67bc82ae"
+		"6caf334598691d08e77f4f07a7f0dfbf"
 	],
 	"painting/shengli_2": [
 		"6604",
@@ -16288,8 +16288,8 @@
 		"5c8f15007d8261355bcdf16f56d30b19"
 	],
 	"painting/shengli_tex": [
-		"2007051",
-		"71a0dd7b01c42a14fe17e3d09dd554cb"
+		"480583",
+		"b49080ed3452c9d0fdf49e0e24ab3218"
 	],
 	"painting/shengluyisi": [
 		"6638",
@@ -25285,10 +25285,34 @@
 	],
 	"painting/silverfox": [
 		"6679",
-		"44f54ced1942bffacef3094e2e588b7e"
+		"5ddc33807032fb931a36f7b0dc9b2f44"
 	],
 	"painting/silverfox_tex": [
 		"456157",
 		"59feb53b0f7d0e8bd7746c0bf1bb41ee"
+	],
+	"painting/luodeni_alter_n": [
+		"7319",
+		"3edba9cfe7f9702444d614ae737dea39"
+	],
+	"painting/luodeni_alter_n_tex": [
+		"227297",
+		"088e96a613ad2814f8d92cb4f93bfcd9"
+	],
+	"painting/luodeni_alter_rw_tex": [
+		"919255",
+		"5ad22f1ba72e96fc2621fa54e121c814"
+	],
+	"painting/luodeni_alter": [
+		"7318",
+		"a90f1cfd46d81ab32d6f71568fc333d3"
+	],
+	"painting/luodeni_alter_tex": [
+		"2001083",
+		"6dacc4ce1a6cbb1c0dd40c614550535b"
+	],
+	"painting/luodeni_alter_bj_tex": [
+		"1149952",
+		"4a87dd3205be9fe36111125b41e93aba"
 	]
 }
