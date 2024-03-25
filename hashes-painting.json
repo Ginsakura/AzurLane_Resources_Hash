@@ -22560,8 +22560,8 @@
 		"bb89b4d2b53247a3a23fcd5109f01ab3"
 	],
 	"painting/yuekegongjue_2": [
-		"6607",
-		"53058c3d4ed7ef88842b36edf5f2beb8"
+		"6669",
+		"c58ba3c5bae72c688d60fd2e7cbd5387"
 	],
 	"painting/yuekegongjue_2_tex": [
 		"3952062",
@@ -25314,5 +25314,25 @@
 	"painting/luodeni_alter_bj_tex": [
 		"1149952",
 		"4a87dd3205be9fe36111125b41e93aba"
+	],
+	"painting/z46_7_n_tex": [
+		"499901",
+		"47ae5541cf9e971d4867dbbda72629ca"
+	],
+	"painting/z46_7_n": [
+		"6905",
+		"f8119dc2159b75b8380a01da0beb46e1"
+	],
+	"painting/z46_7": [
+		"6955",
+		"c1bd6618a863121423f92369d447d3fe"
+	],
+	"painting/z46_7_rw_tex": [
+		"1680811",
+		"a2d40596b345bbcca6db51c6edc50243"
+	],
+	"painting/z46_7_tex": [
+		"3384555",
+		"26bede40fac4990cf5f9c3de77953081"
 	]
 }
